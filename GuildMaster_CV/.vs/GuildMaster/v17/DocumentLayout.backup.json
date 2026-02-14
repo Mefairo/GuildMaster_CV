@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\github\\GuildMaster\\GuildMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\sendforquestsystem\\questcalculationsystem\\showresultsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\slotssystem\\equipsystem\\equipslot_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slotssystem\\equipsystem\\equipslot_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\fixquestsystem\\questparametressystemfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fixquestsystem\\questparametressystemfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|d:\\github\\guildmaster\\guildmaster\\assets\\scripts\\sendforquestsystem\\questcalculationsystem\\showresultsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sendforquestsystem\\questcalculationsystem\\showresultsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|d:\\github\\guildmaster\\guildmaster\\assets\\scripts\\slotssystem\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\slotssystem\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slotssystem\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -189,10 +197,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\abilities\\dynamicheroabilitydisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\abilities\\dynamicheroabilitydisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\fixquestsystem\\questparametressystemfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fixquestsystem\\questparametressystemfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\reforge system\\reforgecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -393,10 +397,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\questssystem\\questdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questssystem\\questdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\slotssystem\\equipsystem\\equipslot_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slotssystem\\equipsystem\\equipslot_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D63BB14-2DBB-D6BC-4129-7DF919761AB5}|Assembly-CSharp.csproj|D:\\github\\GuildMaster\\GuildMaster\\assets\\scripts\\slotssystem\\inventorysystem\\mouseitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -1086,84 +1086,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EquipItemData.cs",
-              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItemData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItemData.cs",
-              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItemData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItemData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T12:45:21.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CraftItemData.cs",
-              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemData.cs",
-              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T12:45:21.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ItemSecondaryType.cs",
-              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemSecondaryType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemSecondaryType.cs",
-              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemSecondaryType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemSecondaryType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T12:45:21.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SlotData.cs",
-              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\SlotData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\SlotData.cs",
-              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\SlotData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\SlotData.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T17:16:35.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemType.cs",
-              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\ItemType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\ItemType.cs",
-              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\ItemType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\ItemType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:16:40.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemPrimaryType.cs",
-              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemPrimaryType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemPrimaryType.cs",
-              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemPrimaryType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemPrimaryType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T12:45:21.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "TakingQuestUIController.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SendForQuestSystem\\TakingQuestUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SendForQuestSystem\\TakingQuestUIController.cs",
@@ -1175,7 +1102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "UIController.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\UIOther\\UIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIOther\\UIController.cs",
@@ -1187,7 +1114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EquipType.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipType.cs",
@@ -1199,7 +1126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ShowResultSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SendForQuestSystem\\QuestCalculationSystem\\ShowResultSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SendForQuestSystem\\QuestCalculationSystem\\ShowResultSystem.cs",
@@ -1212,7 +1139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "RecruitQuestKeeperController.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SendForQuestSystem\\RecruitQuestKeeperController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SendForQuestSystem\\RecruitQuestKeeperController.cs",
@@ -1224,7 +1151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "GuildValutes.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\GuildSystem\\GuildValutes.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GuildSystem\\GuildValutes.cs",
@@ -1236,7 +1163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "KeeperDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\TemplateUI\\KeeperDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TemplateUI\\KeeperDisplay.cs",
@@ -1248,7 +1175,105 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestParametresSystemFix.cs",
+              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\FixQuestSystem\\QuestParametresSystemFix.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FixQuestSystem\\QuestParametresSystemFix.cs",
+              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\FixQuestSystem\\QuestParametresSystemFix.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FixQuestSystem\\QuestParametresSystemFix.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAowIoBAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:03:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipSlot_UI.cs",
+              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot_UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot_UI.cs",
+              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot_UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot_UI.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:21:05.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemPrimaryType.cs",
+              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemPrimaryType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemPrimaryType.cs",
+              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemPrimaryType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemPrimaryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:45:21.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\ItemType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\ItemType.cs",
+              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\ItemType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\ItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:16:40.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlotData.cs",
+              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\SlotData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\SlotData.cs",
+              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\SlotData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\SlotData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:16:35.643Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ItemSecondaryType.cs",
+              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemSecondaryType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemSecondaryType.cs",
+              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemSecondaryType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\ItemSecondaryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:45:21.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CraftItemData.cs",
+              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemData.cs",
+              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:45:21.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipItemData.cs",
+              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItemData.cs",
+              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:45:21.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GuildHeroesDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\GuildSystem\\GuildHeroesDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GuildSystem\\GuildHeroesDisplay.cs",
@@ -1260,7 +1285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "DynamicInventoryDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\DynamicInventoryDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\DynamicInventoryDisplay.cs",
@@ -1272,7 +1297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "InventoryDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\InventoryDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\InventoryDisplay.cs",
@@ -1284,7 +1309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "QuestResistanceSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\QuestResistanceSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\QuestResistanceSystem.cs",
@@ -1296,7 +1321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "InfoPanelUI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\UIOther\\InfoPanelUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIOther\\InfoPanelUI.cs",
@@ -1308,7 +1333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "LearningGameManager.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\LearningGame\\LearningGameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LearningGame\\LearningGameManager.cs",
@@ -1320,7 +1345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CalculationResultsQuest.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\NextDaySystem\\CalculationResultsQuest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextDaySystem\\CalculationResultsQuest.cs",
@@ -1332,7 +1357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "PlayerInventoryHolder.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\InventorySystem\\PlayerInventoryHolder.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\InventorySystem\\PlayerInventoryHolder.cs",
@@ -1344,7 +1369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "HeroForSendSlot_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Prefabs\\QuestsPrefabs\\HeroForSendSlot_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\QuestsPrefabs\\HeroForSendSlot_UI.cs",
@@ -1356,7 +1381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "AbilityTree.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\AbilityTreeSystem\\AbilityTree.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AbilityTreeSystem\\AbilityTree.cs",
@@ -1368,7 +1393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "MainQuestKeeperDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SendForQuestSystem\\MainQuestKeeperDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SendForQuestSystem\\MainQuestKeeperDisplay.cs",
@@ -1380,7 +1405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "PrepareQuestUIController.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SendForQuestSystem\\PrepareQuestUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SendForQuestSystem\\PrepareQuestUIController.cs",
@@ -1392,7 +1417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "StatDisplayManager.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\UIOther\\StatDisplayManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIOther\\StatDisplayManager.cs",
@@ -1404,7 +1429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "TextHighlighter.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\UIOther\\TextHighlighter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIOther\\TextHighlighter.cs",
@@ -1416,7 +1441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "GuildKeeper.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\GuildSystem\\GuildKeeper.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GuildSystem\\GuildKeeper.cs",
@@ -1428,7 +1453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "AbilityData.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\AbilityData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\AbilityData.cs",
@@ -1440,7 +1465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "CalculattionAbilitiesSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SendForQuestSystem\\QuestCalculationSystem\\CalculattionAbilitiesSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SendForQuestSystem\\QuestCalculationSystem\\CalculattionAbilitiesSystem.cs",
@@ -1452,7 +1477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "AutofillSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Autofill System\\AutofillSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Autofill System\\AutofillSystem.cs",
@@ -1464,7 +1489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "StatScaleAbilityData.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityUniqDatas\\StatScaleAbilityData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityUniqDatas\\StatScaleAbilityData.cs",
@@ -1476,7 +1501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "RegionData.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\ExpeditionalCompanySystem\\RegionData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExpeditionalCompanySystem\\RegionData.cs",
@@ -1488,7 +1513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "StatScaleByValueAbilityData.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityUniqDatas\\StatScaleByValueAbilityData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityUniqDatas\\StatScaleByValueAbilityData.cs",
@@ -1500,7 +1525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "PaladinAbility_3_2_1.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityPaladinRealization\\PaladinAbility_3_2_1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityPaladinRealization\\PaladinAbility_3_2_1.cs",
@@ -1512,7 +1537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "LevelSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\HeroSystem\\LevelSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HeroSystem\\LevelSystem.cs",
@@ -1524,7 +1549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Hero.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\HeroSystem\\Hero.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HeroSystem\\Hero.cs",
@@ -1536,7 +1561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "RewardItems.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\NextDaySystem\\RewardItems.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextDaySystem\\RewardItems.cs",
@@ -1548,7 +1573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "RegionLevelReward.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\ScriptableObjects\\Regions\\RegionLevelReward.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptableObjects\\Regions\\RegionLevelReward.cs",
@@ -1560,7 +1585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "PossibleRewardsSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SendForQuestSystem\\PossibleRewardsSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SendForQuestSystem\\PossibleRewardsSystem.cs",
@@ -1572,7 +1597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\UIOther\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIOther\\MainMenu.cs",
@@ -1584,7 +1609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Audio\\MainAudio\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Audio\\MainAudio\\AudioManager.cs",
@@ -1596,7 +1621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "ExpeditionSlot_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\ExpeditionSystem\\ExpeditionSlot_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\ExpeditionSystem\\ExpeditionSlot_UI.cs",
@@ -1608,7 +1633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "QuestBoardSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\QuestBoardSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\QuestBoardSystem.cs",
@@ -1620,7 +1645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "ReforgeController.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Reforge System\\ReforgeController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Reforge System\\ReforgeController.cs",
@@ -1632,7 +1657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "HeroQuestSlot_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Prefabs\\QuestsPrefabs\\HeroQuestSlot_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\QuestsPrefabs\\HeroQuestSlot_UI.cs",
@@ -1644,7 +1669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "HeroAbilitySlot_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\HeroAbilitySlot_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\HeroAbilitySlot_UI.cs",
@@ -1656,7 +1681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "QuestSlot_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\QuestSlot_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\QuestSlot_UI.cs",
@@ -1668,7 +1693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "DynamicHeroAbilityDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\DynamicHeroAbilityDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\DynamicHeroAbilityDisplay.cs",
@@ -1680,19 +1705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "QuestParametresSystemFix.cs",
-              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\FixQuestSystem\\QuestParametresSystemFix.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FixQuestSystem\\QuestParametresSystemFix.cs",
-              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\FixQuestSystem\\QuestParametresSystemFix.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FixQuestSystem\\QuestParametresSystemFix.cs",
-              "ViewState": "AgIAAHkBAAAAAAAAAAAYwIoBAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T20:03:44.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "StringListContainer.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\LearningGame\\StringListContainer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LearningGame\\StringListContainer.cs",
@@ -1704,7 +1717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "ShopKeeperDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\ShopSystem\\ShopKeeperDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\ShopSystem\\ShopKeeperDisplay.cs",
@@ -1716,7 +1729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "Quest.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\Quest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\Quest.cs",
@@ -1728,7 +1741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "ILearning.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\LearningGame\\ILearning.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LearningGame\\ILearning.cs",
@@ -1740,7 +1753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "DrawingKeeperDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\DrawingSystem\\DrawingKeeperDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DrawingSystem\\DrawingKeeperDisplay.cs",
@@ -1752,7 +1765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "NotificationSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\NotificationSystem\\NotificationSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NotificationSystem\\NotificationSystem.cs",
@@ -1764,7 +1777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "PaladinAbilityData_3_2_1.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityPaladinDatas\\PaladinAbilityData_3_2_1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityPaladinDatas\\PaladinAbilityData_3_2_1.cs",
@@ -1776,7 +1789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "HeroDefencePoints.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\HeroSystem\\HeroDefencePoints.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HeroSystem\\HeroDefencePoints.cs",
@@ -1788,7 +1801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "HeroData.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\HeroSystem\\HeroData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HeroSystem\\HeroData.cs",
@@ -1800,7 +1813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "StatsUpSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\HeroSystem\\StatsUpSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HeroSystem\\StatsUpSystem.cs",
@@ -1812,7 +1825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "HeroPowerPoints.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\HeroSystem\\HeroPowerPoints.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HeroSystem\\HeroPowerPoints.cs",
@@ -1824,7 +1837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "ExtraDefenceStats_Talent.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\GuildSystem\\GuildTalents\\Tier 1\\ExtraDefenceStats_Talent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GuildSystem\\GuildTalents\\Tier 1\\ExtraDefenceStats_Talent.cs",
@@ -1836,7 +1849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "EquipDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipDisplay.cs",
@@ -1848,7 +1861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "HeroStats.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\HeroSystem\\HeroStats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HeroSystem\\HeroStats.cs",
@@ -1860,7 +1873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "GuildTalentSlot_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\UIOther\\GuildTalentSlot_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIOther\\GuildTalentSlot_UI.cs",
@@ -1872,7 +1885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "RecruitKeeper.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\RecruitSystem\\RecruitKeeper.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RecruitSystem\\RecruitKeeper.cs",
@@ -1884,7 +1897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "EquipItem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipItem.cs",
@@ -1896,7 +1909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "EngineerAbility_1_2_2.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityEngineerRealization\\EngineerAbility_1_2_2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityEngineerRealization\\EngineerAbility_1_2_2.cs",
@@ -1908,7 +1921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "ExtraStatPoint_Talent.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\GuildSystem\\GuildTalents\\Tier 1\\ExtraStatPoint_Talent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GuildSystem\\GuildTalents\\Tier 1\\ExtraStatPoint_Talent.cs",
@@ -1920,7 +1933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "MageAbility_1_2_2.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityMageRealization\\MageAbility_1_2_2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\EnemyAbilities\\AbilityMageRealization\\MageAbility_1_2_2.cs",
@@ -1932,7 +1945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "ResistanceSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\HeroSystem\\ResistanceSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HeroSystem\\ResistanceSystem.cs",
@@ -1944,7 +1957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "ExtraPowerStats_Talent.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\GuildSystem\\GuildTalents\\Tier 1\\ExtraPowerStats_Talent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GuildSystem\\GuildTalents\\Tier 1\\ExtraPowerStats_Talent.cs",
@@ -1956,7 +1969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "RecruitKeeperDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\RecruitSystem\\RecruitKeeperDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RecruitSystem\\RecruitKeeperDisplay.cs",
@@ -1968,7 +1981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "SliderBar.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Prefabs\\UI Prefabs\\SliderBar.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\UI Prefabs\\SliderBar.cs",
@@ -1980,7 +1993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "ExpeditionProgress.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\ExpeditionSystem\\ExpeditionProgress.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\ExpeditionSystem\\ExpeditionProgress.cs",
@@ -1992,7 +2005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "QuestKeeper.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\QuestKeeper.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\QuestKeeper.cs",
@@ -2004,7 +2017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "NextDayController.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\NextDaySystem\\NextDayController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextDaySystem\\NextDayController.cs",
@@ -2016,7 +2029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "NextDayButton.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\NextDaySystem\\NextDayButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextDaySystem\\NextDayButton.cs",
@@ -2028,7 +2041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "GuildUISystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\GuildSystem\\GuildUISystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GuildSystem\\GuildUISystem.cs",
@@ -2040,7 +2053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "DynamicEquipDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\DynamicEquipDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\DynamicEquipDisplay.cs",
@@ -2052,7 +2065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "ResImage_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Enemy\\ResImage_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\ResImage_UI.cs",
@@ -2064,7 +2077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "CheckTypeForTabs.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\ShopSystem\\CheckTypeForTabs.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\ShopSystem\\CheckTypeForTabs.cs",
@@ -2076,7 +2089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "HeroAbilityHolder.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\HeroAbilityHolder.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\HeroAbilityHolder.cs",
@@ -2088,7 +2101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "AbilitySlot_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\AbilitySlot_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\AbilitySlot_UI.cs",
@@ -2100,7 +2113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "EquipSlot.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot.cs",
@@ -2112,7 +2125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "BlankSlot.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Reforge System\\BlankSlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Reforge System\\BlankSlot.cs",
@@ -2124,7 +2137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "Ability.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Abilities\\Ability.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Abilities\\Ability.cs",
@@ -2136,7 +2149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "CraftItemList.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemList.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftItemList.cs",
@@ -2148,7 +2161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "CraftSystem.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftSystem.cs",
@@ -2160,7 +2173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "RuneSlotData.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Reforge System\\RuneSlotData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Reforge System\\RuneSlotData.cs",
@@ -2172,7 +2185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "RuneSlot_UI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\Reforge System\\RuneSlot_UI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Reforge System\\RuneSlot_UI.cs",
@@ -2184,7 +2197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "CraftSlot.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftSlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftSlot.cs",
@@ -2196,7 +2209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "CraftSlotUI.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftSlotUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftSlotUI.cs",
@@ -2208,7 +2221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "ItemCraft.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\ItemCraft.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\ItemCraft.cs",
@@ -2220,7 +2233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "CraftKeeperDisplay.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftKeeperDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\CraftSystem\\CraftKeeperDisplay.cs",
@@ -2244,7 +2257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "DynamicQuestList.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\DynamicQuestList.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\DynamicQuestList.cs",
@@ -2256,7 +2269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "Expedition.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\ExpeditionSystem\\Expedition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\ExpeditionSystem\\Expedition.cs",
@@ -2268,7 +2281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "QuestData.cs",
               "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\QuestsSystem\\QuestData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestsSystem\\QuestData.cs",
@@ -2277,18 +2290,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T12:45:21.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 98,
-              "Title": "EquipSlot_UI.cs",
-              "DocumentMoniker": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot_UI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot_UI.cs",
-              "ToolTip": "D:\\github\\GuildMaster\\GuildMaster\\Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot_UI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SlotsSystem\\EquipSystem\\EquipSlot_UI.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:21:05.956Z"
             },
             {
               "$type": "Document",
