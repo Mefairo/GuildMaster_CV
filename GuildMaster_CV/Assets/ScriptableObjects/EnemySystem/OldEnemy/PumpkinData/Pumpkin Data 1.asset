@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da6a90ca2b927834d9ba4cc954f1c0a8, type: 3}
+  m_Name: Pumpkin Data 1
+  m_EditorClassIdentifier: 
+  ID: 222
+  Name: Pumpkin 1
+  Description: 
+  Icon: {fileID: 21300000, guid: 996e0d700b9285a44b80d0689e179817, type: 3}
+  Resistances:
+  - TypeDamage: 4
+    ValueResistance: 30
+  - TypeDamage: 5
+    ValueResistance: 40
+  Abilities:
+  - _abilityData: {fileID: 11400000, guid: 046a770de9284114c82b441fe18e5255, type: 2}
+    _resistances: []
+    _debuffs: []
+  - _abilityData: {fileID: 11400000, guid: 24c27913aaea9ad4ba3a1e310414710c, type: 2}
+    _resistances: []
+    _debuffs: []

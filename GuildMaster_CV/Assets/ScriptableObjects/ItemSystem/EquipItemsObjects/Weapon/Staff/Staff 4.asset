@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7316937fcbdc89649bd3fc825105b7df, type: 3}
+  m_Name: Staff 4
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Staff 4
+  Description: Equipment Item
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: b08b1ee7f2bcaa047a496f3035940651, type: 3}
+  IconBackground: {fileID: 21300000, guid: 43558585eeffcb844aa9f518af86ca03, type: 3}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 1
+  GoldValue: 26810
+  ItemType: 31
+  ItemPrimaryType: 3
+  Recipes:
+  - _requiredItems:
+    - {fileID: 11400000, guid: 766876f1e509d7940ab8329c7939cad3, type: 2}
+    - {fileID: 11400000, guid: 18f6c81f70a9691469aaf7a5fb3ea323, type: 2}
+    - {fileID: 11400000, guid: 8606326b2145d8e41b5f72744eeec59d, type: 2}
+    - {fileID: 11400000, guid: a11039c5bd4090f4d8b656ebeb70788f, type: 2}
+    _amountResources: 0100000002000000020000002a000000
+    _craftPrefab: []
+    _craftedItem: {fileID: 0}
+  ItemSecondaryType: 0
+  Tier: 2
+  EquipMaxStackSize: 1
+  EquipType: 13
+  NeutralizeDebuffs: 
+  NeutralizeDebuffsData: []
+  NeutralizeAffixes: 
+  Buffs: 
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 9
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  Resistance:
+  - Resistances:
+    - TypeDamage: 5
+      ValueResistance: 4
+    - TypeDamage: 7
+      ValueResistance: 4

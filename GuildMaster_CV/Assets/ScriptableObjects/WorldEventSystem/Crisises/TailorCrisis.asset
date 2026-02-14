@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72a98ca0c61978945a402b56af70d6bf, type: 3}
+  m_Name: TailorCrisis
+  m_EditorClassIdentifier: 
+  ID: -1
+  Name: Tailor Crisis
+  Description: 'Tailor Crisis.
+
+    A mysterious disease of silkworms and a moth
+    infestation have made fabrics insanely expensive. Quality clothing is now only
+    available to the nobility, and workshops operate at half capacity.
+
+
+    Tailor
+    goods are 30% more expensive.
+
+    Selling prices to Tailors are reduced by 20%.
+
+    Tailor
+    stock is reduced by 35%.'
+  Icon: {fileID: 21300000, guid: 45ecb784d8c652b47b7a26f20277b4b8, type: 3}
+  Resistances: []
+  ActiveDebuffAffix: 0
+  RequireAoeDamage: 0
+  ConsiderCountAffix: 1
+  RequiredForAllHeroesNeutralize: 1
+  WorldEventType: 8
+  AmountDays: 6
+  LeftDays: 0
+  Value_1: 0
+  IsAffix: 0
+  CoefBuyCost: 30
+  CoefSellCost: 20
+  CoefAmountItems: 35

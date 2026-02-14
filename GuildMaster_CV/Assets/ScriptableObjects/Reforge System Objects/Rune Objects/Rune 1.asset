@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d213898b0a0ca3b46a4e2eafb46e9b1d, type: 3}
+  m_Name: Rune 1
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Rune 1
+  Description: 
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 63159acc1e592ad4a97298598b27670b, type: 3}
+  IconBackground: {fileID: 0}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 100
+  GoldValue: 1000
+  ItemType: 66
+  ItemPrimaryType: 5
+  Recipes: []
+  ItemSecondaryType: 0
+  Tier: 1
+  RuneSlotStats:
+  - StatType: 14
+    MinValueStat: 1
+    MaxValueStat: 2
+  - StatType: 15
+    MinValueStat: 1
+    MaxValueStat: 2
+  - StatType: 16
+    MinValueStat: 1
+    MaxValueStat: 2
+  - StatType: 17
+    MinValueStat: 1
+    MaxValueStat: 2
+  - StatType: 18
+    MinValueStat: 1
+    MaxValueStat: 2
+  - StatType: 19
+    MinValueStat: 1
+    MaxValueStat: 2
+  - StatType: 20
+    MinValueStat: 3
+    MaxValueStat: 5
+  - StatType: 21
+    MinValueStat: 3
+    MaxValueStat: 5
+  - StatType: 22
+    MinValueStat: 3
+    MaxValueStat: 5
+  - StatType: 23
+    MinValueStat: 3
+    MaxValueStat: 5
+  - StatType: 24
+    MinValueStat: 3
+    MaxValueStat: 5
+  - StatType: 25
+    MinValueStat: 3
+    MaxValueStat: 5
+  RuneSlotRes:
+  - ResType: 3
+    MinValueRes: 1
+    MaxValueRes: 7
+  - ResType: 2
+    MinValueRes: 1
+    MaxValueRes: 7
+  - ResType: 4
+    MinValueRes: 1
+    MaxValueRes: 7
+  DebuffLists:
+  - _debuffData: {fileID: 11400000, guid: 6574448690180f443bd1c36b68a575a4, type: 2}
+  - _debuffData: {fileID: 11400000, guid: e5c3bcf33daf0dd448bdd4d3fe45ea58, type: 2}
+  - _debuffData: {fileID: 11400000, guid: fbd65ba60453d384ba94c777b2c61e3c, type: 2}
+  - _debuffData: {fileID: 11400000, guid: 98efac6b8f32c5245bb100c747e85a4c, type: 2}
+  - _debuffData: {fileID: 11400000, guid: f955872b78a5acb4284747daaea13127, type: 2}

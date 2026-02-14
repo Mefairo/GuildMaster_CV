@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a072ea759f48143aff23da4b602936, type: 3}
+  m_Name: Primalist Ability 1 2 2
+  m_EditorClassIdentifier: 
+  ID: 111
+  Icon: {fileID: 21300000, guid: 215b7d408caea4c438039094e71e3b81, type: 3}
+  Name: Natural Resilience
+  Description: "\u0423\u0441\u0438\u043B\u0435\u043D\u0438\u0435, \u0434\u0430\u044E\u0449\u0435\u0435
+    \u0441\u043E\u043F\u0440\u043E\u0442\u0438\u0432\u043B\u0435\u043D\u0438\u0435
+    \u043A \u0443\u0440\u043E\u043D\u0443 \u0442\u044C\u043C\u043E\u0439 \u0438 \u043D\u0435\u043A\u0440\u043E\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u043C\u0443
+    \u0443\u0440\u043E\u043D\u0443. \u0422\u0430\u043A\u0436\u0435 \u0434\u0430\u0435\u0442
+    \u0421\u0442\u043E\u0439\u043A\u043E\u0441\u0442\u044C \u0438 \u043C\u043D\u043E\u0436\u0438\u0442\u0435\u043B\u044C
+    \u0417\u0434\u0440\u0430\u0432\u043E\u043C\u044B\u0441\u043B\u0438\u044F"
+  AbilityTreeDescription: "\u0421\u043E\u043F\u0440\u043E\u0442\u0438\u0432\u043B\u0435\u043D\u0438\u044F
+    \u0438 \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043A\u0438
+    \u0443\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u044B. \u0422\u0430\u043A\u0436\u0435
+    \u0434\u0430\u0435\u0442 \u043C\u043D\u043E\u0436\u0438\u0442\u0435\u043B\u044C
+    \u0417\u0434\u0440\u0430\u0432\u043E\u043C\u044B\u0441\u043B\u0438\u044F"
+  Tier: 2
+  PowerValue: 0
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 25
+  "\u0421oefBuff": 20
+  "\u0421oefAoe": 20
+  UniqBuff: 0
+  PostBuff: 0
+  MasterAura: 0
+  AmountSummon: 1
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 2
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 15
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  ResistancesForAttack: []
+  ResistancesForDefence:
+  - TypeDamage: 5
+    ValueResistance: 20
+  - TypeDamage: 6
+    ValueResistance: 20
+  DebuffsForAttack: []
+  DebuffsForDefence: []
+  ResistancesForDecrease: []
+  GeneralType: 2
+  TypeAbility: 5
+  BuffList: 
+  NeutralizeBuffList: 
+  NeutralizeAffixList: 
+  MainTreeAbility: {fileID: 11400000, guid: 7e6d22ce4bb8d124aba9d0b13a2163d9, type: 2}
+  RequiredStats:
+    StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  StudyAbilities: []

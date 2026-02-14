@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d213898b0a0ca3b46a4e2eafb46e9b1d, type: 3}
+  m_Name: 1 Rune of the Guardian Data
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Rune of the Guardian I
+  Description: An item used to reforge blanks
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 4d16ac16a2ff3b741a85c524ed1362a0, type: 3}
+  IconBackground: {fileID: 0}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 100
+  GoldValue: 1000
+  ItemType: 66
+  ItemPrimaryType: 5
+  Recipes: []
+  ItemSecondaryType: 0
+  Tier: 1
+  RuneSlotStats:
+  - StatType: 17
+    MinValueStat: 1
+    MaxValueStat: 2
+  - StatType: 18
+    MinValueStat: 1
+    MaxValueStat: 2
+  - StatType: 19
+    MinValueStat: 1
+    MaxValueStat: 2
+  RuneSlotRes: []
+  DebuffLists: []

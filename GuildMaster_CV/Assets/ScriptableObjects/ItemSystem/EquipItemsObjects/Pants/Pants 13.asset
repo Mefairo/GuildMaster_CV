@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7316937fcbdc89649bd3fc825105b7df, type: 3}
+  m_Name: Pants 13
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Pants 13
+  Description: Equipment Item
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: be0bd5306d5a4e246a8a5a158acd0969, type: 3}
+  IconBackground: {fileID: 21300000, guid: 3bd3dd19c25c12544be4a6f5964f0b3c, type: 3}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 1
+  GoldValue: 29620
+  ItemType: 41
+  ItemPrimaryType: 3
+  Recipes:
+  - _requiredItems:
+    - {fileID: 11400000, guid: f6365425e8987e6498ec542663341cd8, type: 2}
+    - {fileID: 11400000, guid: 8ce032156d9c44d4293f3c507457ebe7, type: 2}
+    - {fileID: 11400000, guid: 0e269c1c357527847b295375af80433d, type: 2}
+    - {fileID: 11400000, guid: a6e3173b241a42e4ab402a5eee36f094, type: 2}
+    _amountResources: 0f000000190000000e00000018000000
+    _craftPrefab: []
+    _craftedItem: {fileID: 0}
+  ItemSecondaryType: 0
+  Tier: 0
+  EquipMaxStackSize: 1
+  EquipType: 5
+  NeutralizeDebuffs: 
+  NeutralizeDebuffsData: []
+  NeutralizeAffixes: 
+  Buffs: 
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 6
+    HasteValue: 6
+    AccuracyValue: 6
+    DurabilityValue: 6
+    AdaptabilityValue: 6
+    SuppressionValue: 6
+  Resistance:
+  - Resistances: []

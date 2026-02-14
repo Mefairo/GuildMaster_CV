@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7316937fcbdc89649bd3fc825105b7df, type: 3}
+  m_Name: Boots 7
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Boots 7
+  Description: Equipment Item
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 11d30e7161f90c84a9e036eaa10427d2, type: 3}
+  IconBackground: {fileID: 21300000, guid: 3bd3dd19c25c12544be4a6f5964f0b3c, type: 3}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 1
+  GoldValue: 11710
+  ItemType: 42
+  ItemPrimaryType: 3
+  Recipes:
+  - _requiredItems:
+    - {fileID: 11400000, guid: c8a813ab2e57b9840abd077697d4993e, type: 2}
+    - {fileID: 11400000, guid: 6918cd0b801cd244497d53d5f7062701, type: 2}
+    - {fileID: 11400000, guid: 3891118df0b5867469fa2e93289c68e8, type: 2}
+    - {fileID: 11400000, guid: ea6b6c0ecc8249242ac49eb23bf5cdea, type: 2}
+    _amountResources: 08000000050000000600000007000000
+    _craftPrefab: []
+    _craftedItem: {fileID: 0}
+  ItemSecondaryType: 0
+  Tier: 0
+  EquipMaxStackSize: 1
+  EquipType: 6
+  NeutralizeDebuffs: 
+  NeutralizeDebuffsData: []
+  NeutralizeAffixes: 
+  Buffs: 
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 4
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 4
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  Resistance:
+  - Resistances: []

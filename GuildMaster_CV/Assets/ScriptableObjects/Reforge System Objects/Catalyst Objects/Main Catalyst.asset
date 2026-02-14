@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6f2a6e6eeb22e14c9897dbc6583e3ff, type: 3}
+  m_Name: Main Catalyst
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Main Catalyst
+  Description: "An item used to reforge blanks. \nAdds a random rune property."
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 90446ccf061929d4fb0df87cdd8c432f, type: 3}
+  IconBackground: {fileID: 0}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 100
+  GoldValue: 300
+  ItemType: 67
+  ItemPrimaryType: 6
+  Recipes: []
+  ItemSecondaryType: 0
+  MinCraftValueSpend: 1
+  MaxCraftValueSpend: 10

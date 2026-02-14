@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da6a90ca2b927834d9ba4cc954f1c0a8, type: 3}
+  m_Name: Spirit Data 7
+  m_EditorClassIdentifier: 
+  ID: 333
+  Name: Spirit 7
+  Description: 
+  Icon: {fileID: 21300000, guid: c71f64089e1887542967fd71f5e5e697, type: 3}
+  Resistances:
+  - TypeDamage: 7
+    ValueResistance: 40
+  - TypeDamage: 8
+    ValueResistance: 20
+  Abilities:
+  - _abilityData: {fileID: 11400000, guid: bee5f37aaab7dcc4b90eb9084545a656, type: 2}
+    _resistances: []
+    _debuffs: []
+  - _abilityData: {fileID: 11400000, guid: a1c607ef441825542bea7faeb506b985, type: 2}
+    _resistances: []
+    _debuffs: []

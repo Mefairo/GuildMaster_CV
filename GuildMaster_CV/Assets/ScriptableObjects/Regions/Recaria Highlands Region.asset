@@ -1,0 +1,2144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96d6ff394779e37478661073c702d76f, type: 3}
+  m_Name: Recaria Highlands Region
+  m_EditorClassIdentifier: 
+  RegionType: 3
+  RegionName: Recaria Highlands
+  RegionDescription: "Rekar Highlands was renowned as the birthplace of the finest
+    weapons and armor in the world. It was a kingdom of master blacksmiths, who passed
+    down their knowledge from generation to generation. The mountains of Rekar Highlands
+    were rich in rare metals and minerals, used to craft legendary artifacts. The
+    blacksmiths of Rekar Highlands were not mere craftsmen, but artists, whose creations
+    were prized across all kingdoms.\n\nRekar Highlands was also known for its strict
+    neutrality. Blacksmiths sold their creations to anyone who could pay, regardless
+    of their allegiance. This made Rekar Highlands an important trade hub, where
+    deals and agreements were struck between warring factions.\n\nThe Day of Collapse:\nOn
+    the Day of Collapse, Rekar Highlands fell victim to greed and betrayal. A group
+    of bandits, long coveting the highlands\u2019 wealth, took advantage of the chaos
+    caused by events in other kingdoms to strike. They were armed with magical weapons
+    provided by an unknown benefactor, possibly connected to the cultists of Erebus
+    or other dark forces.\n\nThe bandits seized key mines and forges, destroying
+    much of the infrastructure. Blacksmiths who tried to resist were killed or captured.
+    Those who survived fled to other kingdoms, including yours."
+  EnemyDataListq:
+  - _enemyData:
+    - {fileID: 11400000, guid: 71d673a74574ee44ca0cf5d5ad47be32, type: 2}
+    - {fileID: 11400000, guid: ba2a441a932818e4589ecfabe2a6b20e, type: 2}
+  - _enemyData:
+    - {fileID: 11400000, guid: 71d673a74574ee44ca0cf5d5ad47be32, type: 2}
+    - {fileID: 11400000, guid: ba2a441a932818e4589ecfabe2a6b20e, type: 2}
+    - {fileID: 11400000, guid: 83ac78b0bc654e444a40816c4129ca54, type: 2}
+    - {fileID: 11400000, guid: ee6f2836a84537a4299c14bc2c0a8fef, type: 2}
+  - _enemyData:
+    - {fileID: 11400000, guid: 71d673a74574ee44ca0cf5d5ad47be32, type: 2}
+    - {fileID: 11400000, guid: ba2a441a932818e4589ecfabe2a6b20e, type: 2}
+    - {fileID: 11400000, guid: 83ac78b0bc654e444a40816c4129ca54, type: 2}
+    - {fileID: 11400000, guid: ee6f2836a84537a4299c14bc2c0a8fef, type: 2}
+    - {fileID: 11400000, guid: ef2916d72e61ae548bb8588f90977189, type: 2}
+    - {fileID: 11400000, guid: 6f1c5c5546421c44a8ff821b22436641, type: 2}
+  - _enemyData:
+    - {fileID: 11400000, guid: 71d673a74574ee44ca0cf5d5ad47be32, type: 2}
+    - {fileID: 11400000, guid: ba2a441a932818e4589ecfabe2a6b20e, type: 2}
+    - {fileID: 11400000, guid: 83ac78b0bc654e444a40816c4129ca54, type: 2}
+    - {fileID: 11400000, guid: ee6f2836a84537a4299c14bc2c0a8fef, type: 2}
+    - {fileID: 11400000, guid: ef2916d72e61ae548bb8588f90977189, type: 2}
+    - {fileID: 11400000, guid: 6f1c5c5546421c44a8ff821b22436641, type: 2}
+  RewardRegion:
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 47b1314c0d15f7c4b924441829e11e75, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: affe2e6283c597a4ebae3d7ffd4aed95, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c8a813ab2e57b9840abd077697d4993e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 9ea1e8b7138e37b40a0ff182b40fbb75, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 72335b9acda0b9b4a8688b4425e79239, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: f74f4f6d4d258c4419be512a0eb15a36, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: bf4e67631b115bf43a4d5fcb38bc4f26, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: dd7d1df546f759845955ef1ff62a9c5f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 9dfbf4a6f4e759a49a76e0487e92fc59, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 4d6ec77dd4f45454db1b60e0b0cd91ab, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 40e411a7043d4754e8c45c5f63ba5f1e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: c795b74a37382194d8816e3ef786ddb7, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 72999d75c1341a446b7c471366e70c25, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 0da79167f037544488651871ed1cce59, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: ab2fb4cdcdd09fe4eb57403957cb5850, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: e16894f7d4fb47b418d609d1c2964f85, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: a68221845c4783f47ab0d804cfcd5e73, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 2
+        _amountItems: 0
+        _chanceDrop: 7
+      - _rewardItem: {fileID: 11400000, guid: e06b4e82cb5c54643bc2cd8bf17ee2db, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 2
+        _amountItems: 0
+        _chanceDrop: 7
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 99bf2171b5a4f4f4dafe9a4961148f65, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 05febcc96626965438ecab206d7f5715, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: b04a441aa4db3d94f88f4a96ef8d95e6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: bf475d59ae9a1bd4c828b643481af561, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 63241d1704e8c754a92a3e6a32dd597b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 047d030671625704c98fe410c6229b46, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 25c4f5c24056c2e499e25450e46d45a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: bfe055ce4d9124e47a42e0561775879f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 36b817f98c0b6ff4e94b4bbab6bb7bb4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 36ce61ddccba92c4ab6526e552fef1bc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 6c6fd3b507b295c4a90aa73eb538a6de, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: e78b35d390c3d164f861349de63210b3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: ba9bfb505b62e464b9d77850b8ac4fd6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0ca0f37b5a4aa9443a7c1624317c7308, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: c54134f0e15c98640b1e345db4e65d97, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 04969677364e50b48ad6a7f6495931a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 3adba8225e4d85841aa148ea35da0144, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 45c67925ba143ff4984431549e27d23a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c37bcb74b94c3ea4fa490b8614b25ea3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: ecbfe5670a3ecdc4bbe3decfb3c7ca1a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 1835af558f4aed443bd804e88174890a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: b4ffcfdaddf6d874bb34d1663bb9c6ec, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 10736ad962bea5c4f97d67f31ade4da3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: d16c18bb1f9c73a4ba5436cbefa7d31b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 47b1314c0d15f7c4b924441829e11e75, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: affe2e6283c597a4ebae3d7ffd4aed95, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c8a813ab2e57b9840abd077697d4993e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 9ea1e8b7138e37b40a0ff182b40fbb75, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 72335b9acda0b9b4a8688b4425e79239, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: f74f4f6d4d258c4419be512a0eb15a36, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: bf4e67631b115bf43a4d5fcb38bc4f26, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: cf6b748209758f549bafdcbe2dbbbc7a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: dd7d1df546f759845955ef1ff62a9c5f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 3dbfba621243ecf49a9343acf095ce34, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 9dfbf4a6f4e759a49a76e0487e92fc59, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: cecca4425804e094892014ef2cccfc0c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 4d6ec77dd4f45454db1b60e0b0cd91ab, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 796953e3704d5e5488564796cd8ca73d, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 40e411a7043d4754e8c45c5f63ba5f1e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: c795b74a37382194d8816e3ef786ddb7, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 72999d75c1341a446b7c471366e70c25, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0da79167f037544488651871ed1cce59, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: ab2fb4cdcdd09fe4eb57403957cb5850, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: a6e3173b241a42e4ab402a5eee36f094, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: e16894f7d4fb47b418d609d1c2964f85, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: a68221845c4783f47ab0d804cfcd5e73, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: e06b4e82cb5c54643bc2cd8bf17ee2db, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 50366bc41f7d28641b54196db1ea061f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 2
+        _amountItems: 0
+        _chanceDrop: 7
+      - _rewardItem: {fileID: 11400000, guid: c12e8214973bb8e4ca36cda8d1edf6e0, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 2
+        _amountItems: 0
+        _chanceDrop: 7
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 99bf2171b5a4f4f4dafe9a4961148f65, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 05febcc96626965438ecab206d7f5715, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: b04a441aa4db3d94f88f4a96ef8d95e6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: bf475d59ae9a1bd4c828b643481af561, type: 2}
+        _minAmountItems: 2
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 63241d1704e8c754a92a3e6a32dd597b, type: 2}
+        _minAmountItems: 2
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 047d030671625704c98fe410c6229b46, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 25c4f5c24056c2e499e25450e46d45a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: bfe055ce4d9124e47a42e0561775879f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 36b817f98c0b6ff4e94b4bbab6bb7bb4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 36ce61ddccba92c4ab6526e552fef1bc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 6c6fd3b507b295c4a90aa73eb538a6de, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: e78b35d390c3d164f861349de63210b3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: ba9bfb505b62e464b9d77850b8ac4fd6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0ca0f37b5a4aa9443a7c1624317c7308, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: c54134f0e15c98640b1e345db4e65d97, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 04969677364e50b48ad6a7f6495931a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 3adba8225e4d85841aa148ea35da0144, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 45c67925ba143ff4984431549e27d23a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: fa2786efe9d3b844eb2baa85e7f4f826, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 7
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 7adc474c5eb8802489f7ce9e654f08ad, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 26c23acf29bd5874092cd9e05549783e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c37bcb74b94c3ea4fa490b8614b25ea3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 953d9f2529d3709448d5ddf6b81e4ce4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: ecbfe5670a3ecdc4bbe3decfb3c7ca1a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: d664e684c04142a4fa73b93f980b95af, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: b271002fb227a6b4991a29c2656dac4e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 1835af558f4aed443bd804e88174890a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 7b3f6684a2cbe2c4b95c61333ac9f018, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 7734ea4d0df067f429cad8918931ef70, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: b4ffcfdaddf6d874bb34d1663bb9c6ec, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: ceeb211a699dd38429360ab6b4bfac4d, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 10736ad962bea5c4f97d67f31ade4da3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 5dda3f615a63f374abf820893e475b8a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: d16c18bb1f9c73a4ba5436cbefa7d31b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 9de78e6067519d54f9e81e36a6469fde, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 47b1314c0d15f7c4b924441829e11e75, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: affe2e6283c597a4ebae3d7ffd4aed95, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c8a813ab2e57b9840abd077697d4993e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 9ea1e8b7138e37b40a0ff182b40fbb75, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 72335b9acda0b9b4a8688b4425e79239, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: f74f4f6d4d258c4419be512a0eb15a36, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: bf4e67631b115bf43a4d5fcb38bc4f26, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: cf6b748209758f549bafdcbe2dbbbc7a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 6918cd0b801cd244497d53d5f7062701, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: dd7d1df546f759845955ef1ff62a9c5f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 3dbfba621243ecf49a9343acf095ce34, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: ccec6accffcf4144aa18c5b0cd0348db, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 9dfbf4a6f4e759a49a76e0487e92fc59, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: cecca4425804e094892014ef2cccfc0c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 3891118df0b5867469fa2e93289c68e8, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 4d6ec77dd4f45454db1b60e0b0cd91ab, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 796953e3704d5e5488564796cd8ca73d, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 8fd2ee024ae67b74694efd38e326f19b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 40e411a7043d4754e8c45c5f63ba5f1e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: c795b74a37382194d8816e3ef786ddb7, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 72999d75c1341a446b7c471366e70c25, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 0da79167f037544488651871ed1cce59, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: ab2fb4cdcdd09fe4eb57403957cb5850, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: a6e3173b241a42e4ab402a5eee36f094, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 52075adab7d29d341b33949cf684db19, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: e16894f7d4fb47b418d609d1c2964f85, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: a68221845c4783f47ab0d804cfcd5e73, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: e06b4e82cb5c54643bc2cd8bf17ee2db, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 50366bc41f7d28641b54196db1ea061f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: c12e8214973bb8e4ca36cda8d1edf6e0, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: f497dd65309afd04d8629e13a5100e6e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 2
+        _amountItems: 0
+        _chanceDrop: 7
+      - _rewardItem: {fileID: 11400000, guid: c1fda56f955acb549a735f39a4c2646c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 2
+        _amountItems: 0
+        _chanceDrop: 7
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 99bf2171b5a4f4f4dafe9a4961148f65, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 05febcc96626965438ecab206d7f5715, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: b04a441aa4db3d94f88f4a96ef8d95e6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: bf475d59ae9a1bd4c828b643481af561, type: 2}
+        _minAmountItems: 2
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 17
+      - _rewardItem: {fileID: 11400000, guid: 63241d1704e8c754a92a3e6a32dd597b, type: 2}
+        _minAmountItems: 2
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 047d030671625704c98fe410c6229b46, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 14
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 25c4f5c24056c2e499e25450e46d45a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 14
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: bfe055ce4d9124e47a42e0561775879f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 14
+        _amountItems: 0
+        _chanceDrop: 12
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 36b817f98c0b6ff4e94b4bbab6bb7bb4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 36ce61ddccba92c4ab6526e552fef1bc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 6c6fd3b507b295c4a90aa73eb538a6de, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: e78b35d390c3d164f861349de63210b3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: ba9bfb505b62e464b9d77850b8ac4fd6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 0ca0f37b5a4aa9443a7c1624317c7308, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: c54134f0e15c98640b1e345db4e65d97, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 04969677364e50b48ad6a7f6495931a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 3adba8225e4d85841aa148ea35da0144, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 45c67925ba143ff4984431549e27d23a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: fa2786efe9d3b844eb2baa85e7f4f826, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 7
+        _amountItems: 0
+        _chanceDrop: 7
+      - _rewardItem: {fileID: 11400000, guid: 7adc474c5eb8802489f7ce9e654f08ad, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 26c23acf29bd5874092cd9e05549783e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c37bcb74b94c3ea4fa490b8614b25ea3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 953d9f2529d3709448d5ddf6b81e4ce4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: ecbfe5670a3ecdc4bbe3decfb3c7ca1a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: d664e684c04142a4fa73b93f980b95af, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 1fe301ee9be89be4e9bb1bfe1d4919cf, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: b271002fb227a6b4991a29c2656dac4e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c960b4572c2e1a84ba8a7872780df2af, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 1835af558f4aed443bd804e88174890a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 7b3f6684a2cbe2c4b95c61333ac9f018, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 7734ea4d0df067f429cad8918931ef70, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: a911a2fa0d067d441b4d70c8fc521876, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: c9b4424b307818d42b1b622d1b7b5333, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: d19d24e9dcca3514caa8a8dbe7462ec8, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: b4ffcfdaddf6d874bb34d1663bb9c6ec, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: ceeb211a699dd38429360ab6b4bfac4d, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 5d11c3a08f191604aa0f78be3b186d88, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 10736ad962bea5c4f97d67f31ade4da3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 5dda3f615a63f374abf820893e475b8a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 77b67cf3ec6bce9408b337ab07157859, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: d16c18bb1f9c73a4ba5436cbefa7d31b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 9de78e6067519d54f9e81e36a6469fde, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: e76040293975cd0479addf1b9923ad36, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 47b1314c0d15f7c4b924441829e11e75, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: affe2e6283c597a4ebae3d7ffd4aed95, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c8a813ab2e57b9840abd077697d4993e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 9ea1e8b7138e37b40a0ff182b40fbb75, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 72335b9acda0b9b4a8688b4425e79239, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: f74f4f6d4d258c4419be512a0eb15a36, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: bf4e67631b115bf43a4d5fcb38bc4f26, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: cf6b748209758f549bafdcbe2dbbbc7a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 6918cd0b801cd244497d53d5f7062701, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: ea6b6c0ecc8249242ac49eb23bf5cdea, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: dd7d1df546f759845955ef1ff62a9c5f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 18
+      - _rewardItem: {fileID: 11400000, guid: 3dbfba621243ecf49a9343acf095ce34, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: ccec6accffcf4144aa18c5b0cd0348db, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0e269c1c357527847b295375af80433d, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 9dfbf4a6f4e759a49a76e0487e92fc59, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: cecca4425804e094892014ef2cccfc0c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 3891118df0b5867469fa2e93289c68e8, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: cdf5c8c290bb2664c8a4e46081f09b61, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 4d6ec77dd4f45454db1b60e0b0cd91ab, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 18
+      - _rewardItem: {fileID: 11400000, guid: 796953e3704d5e5488564796cd8ca73d, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 8fd2ee024ae67b74694efd38e326f19b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: d275b1318a0ad044f831c5481ae69f85, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 40e411a7043d4754e8c45c5f63ba5f1e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: c795b74a37382194d8816e3ef786ddb7, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 72999d75c1341a446b7c471366e70c25, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 0da79167f037544488651871ed1cce59, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 12
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: ab2fb4cdcdd09fe4eb57403957cb5850, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: a6e3173b241a42e4ab402a5eee36f094, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 52075adab7d29d341b33949cf684db19, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: e08518c972a99d8489ea704fcbf848af, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: e16894f7d4fb47b418d609d1c2964f85, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 15
+        _amountItems: 0
+        _chanceDrop: 15
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: a68221845c4783f47ab0d804cfcd5e73, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: e06b4e82cb5c54643bc2cd8bf17ee2db, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 50366bc41f7d28641b54196db1ea061f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: c12e8214973bb8e4ca36cda8d1edf6e0, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: f497dd65309afd04d8629e13a5100e6e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: c1fda56f955acb549a735f39a4c2646c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 18f6c81f70a9691469aaf7a5fb3ea323, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 2
+        _amountItems: 0
+        _chanceDrop: 7
+      - _rewardItem: {fileID: 11400000, guid: 8606326b2145d8e41b5f72744eeec59d, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 2
+        _amountItems: 0
+        _chanceDrop: 7
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 99bf2171b5a4f4f4dafe9a4961148f65, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 05febcc96626965438ecab206d7f5715, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: b04a441aa4db3d94f88f4a96ef8d95e6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: bf475d59ae9a1bd4c828b643481af561, type: 2}
+        _minAmountItems: 2
+        _maxAmountItems: 15
+        _amountItems: 0
+        _chanceDrop: 18
+      - _rewardItem: {fileID: 11400000, guid: 63241d1704e8c754a92a3e6a32dd597b, type: 2}
+        _minAmountItems: 2
+        _maxAmountItems: 15
+        _amountItems: 0
+        _chanceDrop: 12
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 047d030671625704c98fe410c6229b46, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 14
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 25c4f5c24056c2e499e25450e46d45a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 14
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: bfe055ce4d9124e47a42e0561775879f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 14
+        _amountItems: 0
+        _chanceDrop: 12
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 36b817f98c0b6ff4e94b4bbab6bb7bb4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 36ce61ddccba92c4ab6526e552fef1bc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 6c6fd3b507b295c4a90aa73eb538a6de, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: e78b35d390c3d164f861349de63210b3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: ba9bfb505b62e464b9d77850b8ac4fd6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 0ca0f37b5a4aa9443a7c1624317c7308, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: c54134f0e15c98640b1e345db4e65d97, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 12
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 04969677364e50b48ad6a7f6495931a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 3adba8225e4d85841aa148ea35da0144, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 45c67925ba143ff4984431549e27d23a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: fa2786efe9d3b844eb2baa85e7f4f826, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 7
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 7adc474c5eb8802489f7ce9e654f08ad, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 26c23acf29bd5874092cd9e05549783e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 10
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c37bcb74b94c3ea4fa490b8614b25ea3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 953d9f2529d3709448d5ddf6b81e4ce4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 39ce954f8ae845145b4c740a3e20ec53, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: e9f286ce9566de748b27a3d2aa523673, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: ecbfe5670a3ecdc4bbe3decfb3c7ca1a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: d664e684c04142a4fa73b93f980b95af, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 1fe301ee9be89be4e9bb1bfe1d4919cf, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 166addff8859fb84e89836461d36fcc1, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: b271002fb227a6b4991a29c2656dac4e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: c960b4572c2e1a84ba8a7872780df2af, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 0b8485a815ec7f046a774baf7f12fad7, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 1835af558f4aed443bd804e88174890a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 7b3f6684a2cbe2c4b95c61333ac9f018, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: e109ed599d0f763498b6a783461bbd84, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: f55dd3be05ae3df44abfac6e91d10008, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 7734ea4d0df067f429cad8918931ef70, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: a911a2fa0d067d441b4d70c8fc521876, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: c9b4424b307818d42b1b622d1b7b5333, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: bbef3823b946e254387db4b6ba02a110, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 509f98b83604d4b45927b92f22848430, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: d19d24e9dcca3514caa8a8dbe7462ec8, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: dacb92d4c4e24734b8bcf7468ccd9832, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: b4ffcfdaddf6d874bb34d1663bb9c6ec, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: ceeb211a699dd38429360ab6b4bfac4d, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 5d11c3a08f191604aa0f78be3b186d88, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 24de25dc6d40c4b4291dde95fc93ef50, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 10736ad962bea5c4f97d67f31ade4da3, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 5dda3f615a63f374abf820893e475b8a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 77b67cf3ec6bce9408b337ab07157859, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 98a7cf19e68836240bad1979ab5aaf94, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: d16c18bb1f9c73a4ba5436cbefa7d31b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: 9de78e6067519d54f9e81e36a6469fde, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 8
+      - _rewardItem: {fileID: 11400000, guid: e76040293975cd0479addf1b9923ad36, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: a4e010ca78fda7a44b22a7e5949169a6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 1
+        _amountItems: 0
+        _chanceDrop: 5
+  RewardRunes:
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: a3c815c259ed48949bfddf54070fac1e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 2fc76ab20d7b3a64ea68f11e88df68bb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 5d0350df00d5ccb4c9bb1779af63a4dc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 2681d29d304242f4dbbd9080ea4c080c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 0b154fea9fce3ff4ca8e10ad8b301a46, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 636ff8bdeb83bf4488551c899a0d770a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: eb13a72b229e387448c50626ce2c11cc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 468d8d29a799e6f46aa5fd8d0bfc77cb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: f333d8c423a1db149aec49f35eb3227f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 0de49745702ee3b4094f01cc579940d8, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 0d26eff6675f7f44c960e61b12ad408b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 26948d6aadbb7ef45955cb9406e43b56, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: f9cc9bffaba38864687c43339b1694cb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: af2b4d1d0ac2fa44cb7401b2660d6c19, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: c3ca693b8a2fd244db45610506a6bdad, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 467409e01d502f64782f57d171505639, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 6c1731c9e10b4eb4abe245889d1baf27, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: e5c082a906baeea46a0c98f89d264ed6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: a3c815c259ed48949bfddf54070fac1e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 2fc76ab20d7b3a64ea68f11e88df68bb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 5d0350df00d5ccb4c9bb1779af63a4dc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 2681d29d304242f4dbbd9080ea4c080c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 0b154fea9fce3ff4ca8e10ad8b301a46, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 636ff8bdeb83bf4488551c899a0d770a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: eb13a72b229e387448c50626ce2c11cc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 468d8d29a799e6f46aa5fd8d0bfc77cb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: f333d8c423a1db149aec49f35eb3227f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 0de49745702ee3b4094f01cc579940d8, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 0d26eff6675f7f44c960e61b12ad408b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 26948d6aadbb7ef45955cb9406e43b56, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: f9cc9bffaba38864687c43339b1694cb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: af2b4d1d0ac2fa44cb7401b2660d6c19, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: c3ca693b8a2fd244db45610506a6bdad, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 467409e01d502f64782f57d171505639, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: 6c1731c9e10b4eb4abe245889d1baf27, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+      - _rewardItem: {fileID: 11400000, guid: e5c082a906baeea46a0c98f89d264ed6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 5
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: a3c815c259ed48949bfddf54070fac1e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 2fc76ab20d7b3a64ea68f11e88df68bb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 5d0350df00d5ccb4c9bb1779af63a4dc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 2681d29d304242f4dbbd9080ea4c080c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0b154fea9fce3ff4ca8e10ad8b301a46, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 636ff8bdeb83bf4488551c899a0d770a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: eb13a72b229e387448c50626ce2c11cc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 468d8d29a799e6f46aa5fd8d0bfc77cb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: f333d8c423a1db149aec49f35eb3227f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0de49745702ee3b4094f01cc579940d8, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0d26eff6675f7f44c960e61b12ad408b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 26948d6aadbb7ef45955cb9406e43b56, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: f9cc9bffaba38864687c43339b1694cb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: af2b4d1d0ac2fa44cb7401b2660d6c19, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: c3ca693b8a2fd244db45610506a6bdad, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 467409e01d502f64782f57d171505639, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 6c1731c9e10b4eb4abe245889d1baf27, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: e5c082a906baeea46a0c98f89d264ed6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 4d8e07e0f6ff0d94ea433ad39037079a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 41559ba4c84c0b2408e3150436f44560, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: d8d5aa48d8bc23940b3a817ee9fdad17, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: ec77cd2a8ee6ebd4da48b12335464fcb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0f925238bf868914896f19dae5372191, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 3345d3864b4a47b468771124cfa9ebbb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: d7ac5f1c7a4ca2546b26c527c3b29da2, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 5afb9b9a82a798546b7962ce50e32cb4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 9d1f71a5eae71804b9bd77bf7e300752, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 1d676686af763bf45b4d6ab760c4bc62, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 3cd9a2327345a3b47b2bc78c3ea84240, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 9bb3d2393e8a80843b6a950477e76662, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 963ac1f9332ea2944aeb8057af28068e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 63d176e81b9a87645a5ce2f607401cf7, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 1a0e2f7acdb9ae549be7f3e54f5dea1f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 18d9c1870b205b14e8b63e66b66c74ee, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 7a1308a734272e1488581067d7e13303, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: d2c1df9fef6645a4890158f81f832d9e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 10
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: a3c815c259ed48949bfddf54070fac1e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 2fc76ab20d7b3a64ea68f11e88df68bb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 5d0350df00d5ccb4c9bb1779af63a4dc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 2681d29d304242f4dbbd9080ea4c080c, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0b154fea9fce3ff4ca8e10ad8b301a46, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 636ff8bdeb83bf4488551c899a0d770a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: eb13a72b229e387448c50626ce2c11cc, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 468d8d29a799e6f46aa5fd8d0bfc77cb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: f333d8c423a1db149aec49f35eb3227f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0de49745702ee3b4094f01cc579940d8, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0d26eff6675f7f44c960e61b12ad408b, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 26948d6aadbb7ef45955cb9406e43b56, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: f9cc9bffaba38864687c43339b1694cb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: af2b4d1d0ac2fa44cb7401b2660d6c19, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: c3ca693b8a2fd244db45610506a6bdad, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 467409e01d502f64782f57d171505639, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 6c1731c9e10b4eb4abe245889d1baf27, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: e5c082a906baeea46a0c98f89d264ed6, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 4d8e07e0f6ff0d94ea433ad39037079a, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 41559ba4c84c0b2408e3150436f44560, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: d8d5aa48d8bc23940b3a817ee9fdad17, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: ec77cd2a8ee6ebd4da48b12335464fcb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 0f925238bf868914896f19dae5372191, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 3345d3864b4a47b468771124cfa9ebbb, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: d7ac5f1c7a4ca2546b26c527c3b29da2, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 5afb9b9a82a798546b7962ce50e32cb4, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 9d1f71a5eae71804b9bd77bf7e300752, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 1d676686af763bf45b4d6ab760c4bc62, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 3cd9a2327345a3b47b2bc78c3ea84240, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 9bb3d2393e8a80843b6a950477e76662, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 963ac1f9332ea2944aeb8057af28068e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 63d176e81b9a87645a5ce2f607401cf7, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 1a0e2f7acdb9ae549be7f3e54f5dea1f, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 18d9c1870b205b14e8b63e66b66c74ee, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 7a1308a734272e1488581067d7e13303, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: d2c1df9fef6645a4890158f81f832d9e, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 8
+        _amountItems: 0
+        _chanceDrop: 10
+  RewardCatalysts:
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 09ee6a6f1c8b6db40a8238d5067883ff, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 15
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 09ee6a6f1c8b6db40a8238d5067883ff, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 15
+      - _rewardItem: {fileID: 11400000, guid: 30ff6f066808b0143b925affff6df2f5, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 09ee6a6f1c8b6db40a8238d5067883ff, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 20
+      - _rewardItem: {fileID: 11400000, guid: 30ff6f066808b0143b925affff6df2f5, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 20
+      - _rewardItem: {fileID: 11400000, guid: 15d908f70e9d8b24486cd5de60a80c64, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 15
+  - RewardItems:
+    - RewardItems:
+      - _rewardItem: {fileID: 11400000, guid: 09ee6a6f1c8b6db40a8238d5067883ff, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 5
+        _amountItems: 0
+        _chanceDrop: 12
+      - _rewardItem: {fileID: 11400000, guid: 30ff6f066808b0143b925affff6df2f5, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 15d908f70e9d8b24486cd5de60a80c64, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+      - _rewardItem: {fileID: 11400000, guid: 8c362c362a402cf469b2df40ffd11d03, type: 2}
+        _minAmountItems: 1
+        _maxAmountItems: 3
+        _amountItems: 0
+        _chanceDrop: 10
+  RewardBlankss:
+  - BlankSlotData: {fileID: 11400000, guid: c5a7ed2e78669824ba45be576dd0aac3, type: 2}
+    MinAmount: 1
+    MaxAmount: 1
+    ChanceDrop: 5
+  - BlankSlotData: {fileID: 11400000, guid: c1b9c6a9c368ea540bdc4af76773fb8f, type: 2}
+    MinAmount: 1
+    MaxAmount: 1
+    ChanceDrop: 5
+  - BlankSlotData: {fileID: 11400000, guid: 7cb085a471a5f454db96bbaf82318455, type: 2}
+    MinAmount: 1
+    MaxAmount: 1
+    ChanceDrop: 5
+  - BlankSlotData: {fileID: 11400000, guid: e8b5fd720de06254dbe16f68bad3f9f5, type: 2}
+    MinAmount: 1
+    MaxAmount: 1
+    ChanceDrop: 5
+  - BlankSlotData: {fileID: 11400000, guid: f43f43436e85f2a44bea5a0c329257a5, type: 2}
+    MinAmount: 1
+    MaxAmount: 1
+    ChanceDrop: 5
+  - BlankSlotData: {fileID: 11400000, guid: f5afc147e808cd14db748ff15a212717, type: 2}
+    MinAmount: 1
+    MaxAmount: 1
+    ChanceDrop: 5
+  - BlankSlotData: {fileID: 11400000, guid: 2bf309f708ccdaf4b8a59a56efb5e463, type: 2}
+    MinAmount: 1
+    MaxAmount: 1
+    ChanceDrop: 5

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c435050ba460bc94bad693d013e3587c, type: 3}
+  m_Name: hurricatetest
+  m_EditorClassIdentifier: 
+  ID: -1
+  Name: Terrible Ice Storm
+  Description: 'Terrible Ice Storm
+
+    A devastating ice storm rages. Protection
+    against cold is required in all quests.'
+  Icon: {fileID: 21300000, guid: a9754f0b0ff7b744e96d0c7909b7391d, type: 3}
+  Resistances: []
+  ActiveDebuffAffix: 0
+  RequireAoeDamage: 0
+  ConsiderCountAffix: 1
+  RequiredForAllHeroesNeutralize: 1
+  WorldEventType: 20
+  AmountDays: 5
+  LeftDays: 0
+  Value_1: 0
+  IsAffix: 1
+  eventQuestResists: 03000000

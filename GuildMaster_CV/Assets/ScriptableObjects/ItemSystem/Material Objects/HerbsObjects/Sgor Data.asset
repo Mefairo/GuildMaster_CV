@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65c8771c2d2fe24988d9fc71756625a, type: 3}
+  m_Name: Sgor Data
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Sgor
+  Description: Ingredient for potion brewing
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 519ff29ecc4508e43951b8a0fdf1f413, type: 3}
+  IconBackground: {fileID: 0}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 500
+  GoldValue: 15
+  ItemType: 2
+  ItemPrimaryType: 2
+  Recipes: []
+  ItemSecondaryType: 0

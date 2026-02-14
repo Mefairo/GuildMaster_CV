@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 670aa7e682f3fac4e86f7ff6d3b2d869, type: 3}
+  m_Name: Temporal Rift
+  m_EditorClassIdentifier: 
+  ID: -1
+  Name: Temporal Rift
+  Description: To avoid getting lost in time, Heroes will need magical timepieces.
+  Icon: {fileID: 21300000, guid: a18a5235d8e9f324792f3ac44c8f8f7a, type: 3}
+  Resistances: []
+  ActiveDebuffAffix: 9
+  RequireAoeDamage: 0
+  ConsiderCountAffix: 1
+  RequiredForAllHeroesNeutralize: 0

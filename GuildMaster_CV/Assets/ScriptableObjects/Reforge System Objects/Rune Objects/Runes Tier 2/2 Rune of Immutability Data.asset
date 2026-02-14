@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d213898b0a0ca3b46a4e2eafb46e9b1d, type: 3}
+  m_Name: 2 Rune of Immutability Data
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Rune of Immutability II
+  Description: An item used to reforge blanks
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 04b8859bee18c7a49929ed399ea0f4ec, type: 3}
+  IconBackground: {fileID: 0}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 100
+  GoldValue: 5000
+  ItemType: 66
+  ItemPrimaryType: 5
+  Recipes: []
+  ItemSecondaryType: 0
+  Tier: 2
+  RuneSlotStats: []
+  RuneSlotRes: []
+  DebuffLists:
+  - _debuffData: {fileID: 11400000, guid: 4be4c4eba05513c47a3e0a0d241ae840, type: 2}
+  - _debuffData: {fileID: 11400000, guid: ee44a726454bf7a4aae9b14e96f071a4, type: 2}
+  - _debuffData: {fileID: 11400000, guid: 58213a02756612f42bd8fae3b2609b04, type: 2}

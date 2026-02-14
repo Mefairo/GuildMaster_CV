@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72a98ca0c61978945a402b56af70d6bf, type: 3}
+  m_Name: MagicshopCrisis
+  m_EditorClassIdentifier: 
+  ID: -1
+  Name: Crop failure
+  Description: 'Crop Failure.
+
+    After a recent magical catastrophe, many enchanted
+    materials lost their potency, and mana crystals have dulled. Even crafting simple
+    magical items now requires incredible effort and expense.
+
+
+    Magic Supplier
+    goods are 30% more expensive.
+
+    Selling prices to Magic Suppliers are reduced
+    by 20%.
+
+    Magic Supplier stock is reduced by 35%.'
+  Icon: {fileID: 21300000, guid: ebf66fede6a382545ab089bf4164285a, type: 3}
+  Resistances: []
+  ActiveDebuffAffix: 0
+  RequireAoeDamage: 0
+  ConsiderCountAffix: 1
+  RequiredForAllHeroesNeutralize: 1
+  WorldEventType: 9
+  AmountDays: 5
+  LeftDays: 0
+  Value_1: 0
+  IsAffix: 0
+  CoefBuyCost: 30
+  CoefSellCost: 20
+  CoefAmountItems: 35

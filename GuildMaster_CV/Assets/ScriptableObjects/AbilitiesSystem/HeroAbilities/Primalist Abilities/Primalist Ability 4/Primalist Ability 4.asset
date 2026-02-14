@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a072ea759f48143aff23da4b602936, type: 3}
+  m_Name: Primalist Ability 4
+  m_EditorClassIdentifier: 
+  ID: 111
+  Icon: {fileID: 21300000, guid: 1d519f70f409a91408f43a5f02c3ff14, type: 3}
+  Name: Summon Water Elemental
+  Description: Summons a Water Elemental that attacks with Cold.
+  AbilityTreeDescription: Summons a Water Elemental that attacks with Cold.
+  Tier: 1
+  PowerValue: 0
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 10
+  "\u0421oefBuff": 20
+  "\u0421oefAoe": 20
+  UniqBuff: 0
+  PostBuff: 0
+  MasterAura: 0
+  AmountSummon: 1
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  ResistancesForAttack:
+  - TypeDamage: 3
+    ValueResistance: 0
+  ResistancesForDefence: []
+  DebuffsForAttack: []
+  DebuffsForDefence: []
+  ResistancesForDecrease: []
+  GeneralType: 1
+  TypeAbility: 7
+  BuffList: 
+  NeutralizeBuffList: 
+  NeutralizeAffixList: 
+  MainTreeAbility: {fileID: 11400000}
+  RequiredStats:
+    StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  StudyAbilities:
+  - _abilityData: {fileID: 11400000, guid: 238605a68411cc44e8c268aa249cd614, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0

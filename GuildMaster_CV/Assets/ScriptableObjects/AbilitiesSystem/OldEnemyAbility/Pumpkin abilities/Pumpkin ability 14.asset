@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a072ea759f48143aff23da4b602936, type: 3}
+  m_Name: Pumpkin ability 14
+  m_EditorClassIdentifier: 
+  ID: 111
+  Icon: {fileID: 21300000, guid: 88ad7662e92759343b881c4362074dfe, type: 3}
+  Name: pump spell 14
+  Description: deal pump damage 14
+  PowerValue: 0
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 0
+  MasterAura: 0
+  AmountSummon: 1
+  Stats: []
+  ResistancesForAttack:
+  - TypeDamage: 4
+    ValueResistance: 0
+  - TypeDamage: 5
+    ValueResistance: 0
+  ResistancesForDefence: []
+  DebuffsForAttack:
+  - _debuffData: {fileID: 11400000, guid: e5c3bcf33daf0dd448bdd4d3fe45ea58, type: 2}
+  DebuffsForDefence: []
+  GeneralType: 0
+  TypeAbility: 8
+  BuffList: 
+  NeutralizeAffixList: 

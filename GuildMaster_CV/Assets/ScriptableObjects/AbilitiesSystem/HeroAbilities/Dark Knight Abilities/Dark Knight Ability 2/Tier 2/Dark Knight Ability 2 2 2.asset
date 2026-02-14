@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb08f8eb3670fc429a6657f56f19cc9, type: 3}
+  m_Name: Dark Knight Ability 2 2 2
+  m_EditorClassIdentifier: 
+  ID: 21222
+  Icon: {fileID: 21300000, guid: 3ce11d851807b25409779ec7597d1b33, type: 3}
+  Name: Desperation Strike
+  Description: An attack dealing Dark damage and inflicting Curse. Its power increases
+    by 25% if there is no Paladin in the party.
+  AbilityTreeDescription: An attack dealing Dark damage and inflicting Curse. Its
+    power increases by 25% if there is no Paladin in the party.
+  Tier: 2
+  PowerValue: 0
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 25
+  "\u0421oefBuff": 20
+  "\u0421oefAoe": 20
+  UniqBuff: 0
+  PostBuff: 0
+  MasterAura: 0
+  AmountSummon: 1
+  Stats: []
+  ResistancesForAttack:
+  - TypeDamage: 6
+    ValueResistance: 0
+  ResistancesForDefence: []
+  DebuffsForAttack:
+  - _debuffData: {fileID: 11400000, guid: 73b237bb4308a6245a0a4b20fb0ceba1, type: 2}
+  DebuffsForDefence: []
+  ResistancesForDecrease: []
+  GeneralType: 1
+  TypeAbility: 1
+  BuffList: 
+  NeutralizeBuffList: 
+  NeutralizeAffixList: 
+  MainTreeAbility: {fileID: 11400000, guid: d33f804058cf0a44cb6a9a8a3d702ccf, type: 2}
+  RequiredStats:
+    StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  StudyAbilities: []
+  HeroData: {fileID: 11400000, guid: 50b3d3145104ec64ab924217267a9718, type: 2}
+  PowerCoef: 25

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a072ea759f48143aff23da4b602936, type: 3}
+  m_Name: Priest abil 2
+  m_EditorClassIdentifier: 
+  ID: 222
+  Icon: {fileID: 21300000, guid: 936af7b5d46f68846bc36cb3a6bdf4f5, type: 3}
+  Name: priest abli 2
+  Description: priest damage 2
+  PowerValue: 0
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 200
+  Stats: []
+  ResistancesForAttack:
+  - TypeDamage: 4
+    ValueResistance: 0
+  - TypeDamage: 5
+    ValueResistance: 0
+  - TypeDamage: 6
+    ValueResistance: 0
+  - TypeDamage: 7
+    ValueResistance: 0
+  ResistancesForDefence: []
+  DebuffsForAttack: []
+  DebuffsForDefence: []
+  GeneralType: 1
+  TypeAbility: 1
+  BuffList: 

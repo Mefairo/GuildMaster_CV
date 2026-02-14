@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4ee727d417313b418a0dea2c7a6e92a, type: 3}
+  m_Name: Freeze Data
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 91ca5de56048503419849cf0378a1310, type: 3}
+  Name: Freeze
+  Description: Reduces resistance to Cold
+  IsUnique: 0
+  IsGlobal: 0
+  Stats: []
+  Resistance:
+  - Resistances:
+    - TypeDamage: 3
+      ValueResistance: 4
+  - Resistances:
+    - TypeDamage: 3
+      ValueResistance: 5
+  - Resistances:
+    - TypeDamage: 3
+      ValueResistance: 8
+  - Resistances:
+    - TypeDamage: 3
+      ValueResistance: 12
+  ResistanceHeroes:
+  - Resistances:
+    - TypeDamage: 3
+      ValueResistance: 10
+  - Resistances:
+    - TypeDamage: 3
+      ValueResistance: 20
+  - Resistances:
+    - TypeDamage: 3
+      ValueResistance: 30
+  - Resistances:
+    - TypeDamage: 3
+      ValueResistance: 40
+  DebuffList: 5

@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c11b0a01dac2d14b9e4c89962ed75a9, type: 3}
+  m_Name: WorkshopShopList
+  m_EditorClassIdentifier: 
+  _items_1:
+  - ItemData: {fileID: 11400000, guid: bf4e67631b115bf43a4d5fcb38bc4f26, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: dd7d1df546f759845955ef1ff62a9c5f, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 9dfbf4a6f4e759a49a76e0487e92fc59, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 4d6ec77dd4f45454db1b60e0b0cd91ab, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ab2fb4cdcdd09fe4eb57403957cb5850, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 959c835112a5488418ed4a7a2473fabd, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  _items_2:
+  - ItemData: {fileID: 11400000, guid: bf4e67631b115bf43a4d5fcb38bc4f26, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cf6b748209758f549bafdcbe2dbbbc7a, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: dd7d1df546f759845955ef1ff62a9c5f, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3dbfba621243ecf49a9343acf095ce34, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 9dfbf4a6f4e759a49a76e0487e92fc59, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cecca4425804e094892014ef2cccfc0c, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 4d6ec77dd4f45454db1b60e0b0cd91ab, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 796953e3704d5e5488564796cd8ca73d, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ab2fb4cdcdd09fe4eb57403957cb5850, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: a6e3173b241a42e4ab402a5eee36f094, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 959c835112a5488418ed4a7a2473fabd, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 559d0656093018945aa72edb2f2a44cc, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  _items_3:
+  - ItemData: {fileID: 11400000, guid: bf4e67631b115bf43a4d5fcb38bc4f26, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cf6b748209758f549bafdcbe2dbbbc7a, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 6918cd0b801cd244497d53d5f7062701, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: dd7d1df546f759845955ef1ff62a9c5f, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3dbfba621243ecf49a9343acf095ce34, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ccec6accffcf4144aa18c5b0cd0348db, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 9dfbf4a6f4e759a49a76e0487e92fc59, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cecca4425804e094892014ef2cccfc0c, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3891118df0b5867469fa2e93289c68e8, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 4d6ec77dd4f45454db1b60e0b0cd91ab, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 796953e3704d5e5488564796cd8ca73d, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 8fd2ee024ae67b74694efd38e326f19b, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ab2fb4cdcdd09fe4eb57403957cb5850, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: a6e3173b241a42e4ab402a5eee36f094, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 52075adab7d29d341b33949cf684db19, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 959c835112a5488418ed4a7a2473fabd, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 559d0656093018945aa72edb2f2a44cc, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 2b714285f1bc0da40b0a4ad8b9d96246, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  _items_4:
+  - ItemData: {fileID: 11400000, guid: bf4e67631b115bf43a4d5fcb38bc4f26, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cf6b748209758f549bafdcbe2dbbbc7a, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 6918cd0b801cd244497d53d5f7062701, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ea6b6c0ecc8249242ac49eb23bf5cdea, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: dd7d1df546f759845955ef1ff62a9c5f, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3dbfba621243ecf49a9343acf095ce34, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ccec6accffcf4144aa18c5b0cd0348db, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 0e269c1c357527847b295375af80433d, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 9dfbf4a6f4e759a49a76e0487e92fc59, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cecca4425804e094892014ef2cccfc0c, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3891118df0b5867469fa2e93289c68e8, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cdf5c8c290bb2664c8a4e46081f09b61, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 4d6ec77dd4f45454db1b60e0b0cd91ab, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 796953e3704d5e5488564796cd8ca73d, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 8fd2ee024ae67b74694efd38e326f19b, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: d275b1318a0ad044f831c5481ae69f85, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ab2fb4cdcdd09fe4eb57403957cb5850, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: a6e3173b241a42e4ab402a5eee36f094, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 52075adab7d29d341b33949cf684db19, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: e08518c972a99d8489ea704fcbf848af, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 959c835112a5488418ed4a7a2473fabd, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 559d0656093018945aa72edb2f2a44cc, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 2b714285f1bc0da40b0a4ad8b9d96246, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: f0d1fef984b3ac84eb215787cdfddcd9, type: 2}
+    MinAmount: 10
+    MaxAmount: 100
+    Tier: 0
+  _finishedItems_1:
+  - ItemData: {fileID: 11400000, guid: 9db34d1c9db55534aa9d5f1c43c2a9df, type: 2}
+    MinAmount: 5
+    MaxAmount: 15
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ed3ec5d668a4ad448b8a3ae7a9539753, type: 2}
+    MinAmount: 5
+    MaxAmount: 15
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: f81f0f999bcf792488c681f20e3ca956, type: 2}
+    MinAmount: 5
+    MaxAmount: 15
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 7bea8a59a8a0327488a43f8a82dfc5a9, type: 2}
+    MinAmount: 5
+    MaxAmount: 15
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cf368026ca8b18a4da196d1dd3d4d108, type: 2}
+    MinAmount: 5
+    MaxAmount: 15
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: aa288cc36326d5741abdd2d927a03e68, type: 2}
+    MinAmount: 5
+    MaxAmount: 15
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3b711d497695eb44190dfd58686393e4, type: 2}
+    MinAmount: 5
+    MaxAmount: 15
+    Tier: 0
+  _finishedItems_2:
+  - ItemData: {fileID: 11400000, guid: 9db34d1c9db55534aa9d5f1c43c2a9df, type: 2}
+    MinAmount: 5
+    MaxAmount: 20
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ed3ec5d668a4ad448b8a3ae7a9539753, type: 2}
+    MinAmount: 5
+    MaxAmount: 20
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: f81f0f999bcf792488c681f20e3ca956, type: 2}
+    MinAmount: 5
+    MaxAmount: 20
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 7bea8a59a8a0327488a43f8a82dfc5a9, type: 2}
+    MinAmount: 5
+    MaxAmount: 20
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cf368026ca8b18a4da196d1dd3d4d108, type: 2}
+    MinAmount: 5
+    MaxAmount: 20
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: aa288cc36326d5741abdd2d927a03e68, type: 2}
+    MinAmount: 5
+    MaxAmount: 20
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3b711d497695eb44190dfd58686393e4, type: 2}
+    MinAmount: 5
+    MaxAmount: 20
+    Tier: 0
+  _finishedItems_3:
+  - ItemData: {fileID: 11400000, guid: 9db34d1c9db55534aa9d5f1c43c2a9df, type: 2}
+    MinAmount: 8
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ed3ec5d668a4ad448b8a3ae7a9539753, type: 2}
+    MinAmount: 8
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: f81f0f999bcf792488c681f20e3ca956, type: 2}
+    MinAmount: 8
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 7bea8a59a8a0327488a43f8a82dfc5a9, type: 2}
+    MinAmount: 8
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cf368026ca8b18a4da196d1dd3d4d108, type: 2}
+    MinAmount: 8
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: aa288cc36326d5741abdd2d927a03e68, type: 2}
+    MinAmount: 8
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3b711d497695eb44190dfd58686393e4, type: 2}
+    MinAmount: 8
+    MaxAmount: 25
+    Tier: 0
+  _finishedItems_4:
+  - ItemData: {fileID: 11400000, guid: 9db34d1c9db55534aa9d5f1c43c2a9df, type: 2}
+    MinAmount: 10
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: ed3ec5d668a4ad448b8a3ae7a9539753, type: 2}
+    MinAmount: 10
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: f81f0f999bcf792488c681f20e3ca956, type: 2}
+    MinAmount: 10
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 7bea8a59a8a0327488a43f8a82dfc5a9, type: 2}
+    MinAmount: 10
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: cf368026ca8b18a4da196d1dd3d4d108, type: 2}
+    MinAmount: 10
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: aa288cc36326d5741abdd2d927a03e68, type: 2}
+    MinAmount: 10
+    MaxAmount: 25
+    Tier: 0
+  - ItemData: {fileID: 11400000, guid: 3b711d497695eb44190dfd58686393e4, type: 2}
+    MinAmount: 10
+    MaxAmount: 25
+    Tier: 0
+  _maxAllowedGold: 0
+  _randomItems: []

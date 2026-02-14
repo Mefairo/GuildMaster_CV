@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ccf474d919fb1e44aee21528a7af58a, type: 3}
+  m_Name: TestLight
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: TestLight
+  Description: test Light 1
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 189470820e6c4644c8e8ce6c3e1be58c, type: 3}
+  IconBackground: {fileID: 0}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 500
+  GoldValue: 2
+  ItemPrimaryType: 3
+  Recipes: []
+  ItemSecondaryType: 3
+  Tier: 0
+  EquipType: 11
+  NeutralizeDebuffs: 
+  NeutralizeAffixes: 
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  Resistance:
+  - Resistances: []
+  ItemValue: 0
+  TypeConsumItem: 2

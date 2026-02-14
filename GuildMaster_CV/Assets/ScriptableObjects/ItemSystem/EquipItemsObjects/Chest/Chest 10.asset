@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7316937fcbdc89649bd3fc825105b7df, type: 3}
+  m_Name: Chest 10
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Chest 10
+  Description: Equipment Item
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: aeca199ae2d1ce5468c881cc8f3f7656, type: 3}
+  IconBackground: {fileID: 21300000, guid: 3bd3dd19c25c12544be4a6f5964f0b3c, type: 3}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 1
+  GoldValue: 31200
+  ItemType: 39
+  ItemPrimaryType: 3
+  Recipes:
+  - _requiredItems:
+    - {fileID: 11400000, guid: f6365425e8987e6498ec542663341cd8, type: 2}
+    - {fileID: 11400000, guid: ea6b6c0ecc8249242ac49eb23bf5cdea, type: 2}
+    - {fileID: 11400000, guid: ccec6accffcf4144aa18c5b0cd0348db, type: 2}
+    - {fileID: 11400000, guid: 0da79167f037544488651871ed1cce59, type: 2}
+    _amountResources: 0f00000014000000140000000f000000
+    _craftPrefab: []
+    _craftedItem: {fileID: 0}
+  ItemSecondaryType: 0
+  Tier: 0
+  EquipMaxStackSize: 1
+  EquipType: 3
+  NeutralizeDebuffs: 
+  NeutralizeDebuffsData: []
+  NeutralizeAffixes: 
+  Buffs: 
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 6
+    SanityValue: 6
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  Resistance:
+  - Resistances:
+    - TypeDamage: 4
+      ValueResistance: 10

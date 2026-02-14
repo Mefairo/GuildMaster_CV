@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 307e95959220c5a4e8e3716066a83e1e, type: 3}
+  m_Name: Necromancer
+  m_EditorClassIdentifier: 
+  ID: 3
+  Icon: {fileID: 21300000, guid: 48eb0fc86f17d024d83d41b56bc04dd8, type: 3}
+  ClassName: Necromancer
+  Description: Necromancer333
+  Class: 6
+  PowerPoints: 0
+  DefencePoints: 0
+  Resistance:
+  - TypeDamage: 1
+    ValueResistance: 0
+  - TypeDamage: 2
+    ValueResistance: 0
+  - TypeDamage: 3
+    ValueResistance: 0
+  - TypeDamage: 4
+    ValueResistance: 0
+  - TypeDamage: 5
+    ValueResistance: 0
+  - TypeDamage: 6
+    ValueResistance: 0
+  - TypeDamage: 7
+    ValueResistance: 0
+  HeroStats:
+    StrengthMulti: 2
+    DexterityMulti: 3
+    IntelligenceMulti: 10
+    EnduranceMulti: 2
+    FlexibilityMulti: 3
+    SanityMulti: 10
+    CritMulti: 1
+    HasteMulti: 1
+    AccuracyMulti: 1
+    DurabilityMulti: 1
+    AdaptabilityMulti: 1
+    SuppressionMulti: 1
+    Health: 30
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 2
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 2
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  VisibleHeroStats:
+    StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  Abilities:
+  - _abilityData: {fileID: 11400000, guid: b6a622fdd7d963a4db6f165ffe57177c, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  - _abilityData: {fileID: 11400000, guid: 9cb44a75b30c60c4287796996f4f2af7, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  - _abilityData: {fileID: 11400000, guid: 8e6b90d38c1c622408d3935f58b71933, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  - _abilityData: {fileID: 11400000, guid: d13bd41636159b84d9ffd4cc197d004e, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  - _abilityData: {fileID: 11400000, guid: b487be7035c6506439a60e532bdcccde, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  - _abilityData: {fileID: 11400000, guid: 2ed5424807b12874b9625de744da83fa, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0

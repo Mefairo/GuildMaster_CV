@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72a98ca0c61978945a402b56af70d6bf, type: 3}
+  m_Name: FoodCrisis
+  m_EditorClassIdentifier: 
+  ID: -1
+  Name: Food Crisis
+  Description: "Food Crisis.\nA series of misfortunes \u2014 droughts, livestock
+    diseases, and poor catches \u2014 have caused food prices to skyrocket, leaving
+    store shelves nearly empty. Even basic provisions have become a luxury.\n\nGrocer
+    goods are 30% more expensive.\nSelling prices to Grocers are reduced by 20%.\nGrocer
+    stock is reduced by 35%."
+  Icon: {fileID: 21300000, guid: 86c03e99a64e9564391b0a89ba3579d3, type: 3}
+  Resistances: []
+  ActiveDebuffAffix: 0
+  RequireAoeDamage: 0
+  ConsiderCountAffix: 1
+  RequiredForAllHeroesNeutralize: 1
+  WorldEventType: 3
+  AmountDays: 7
+  LeftDays: 0
+  Value_1: 0
+  IsAffix: 0
+  CoefBuyCost: 30
+  CoefSellCost: 20
+  CoefAmountItems: 35

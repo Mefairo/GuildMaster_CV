@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 243b52c3dec7b73468ff5113b3926a99, type: 3}
+  m_Name: Chest Blank Data
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Chest Blank
+  Description: Reforging Blank
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 46a8a246f1b1b0a4f8123a98893016b4, type: 3}
+  IconBackground: {fileID: 21300000, guid: e77ae4b0807c2e441bd8a18415efc46a, type: 3}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 1
+  GoldValue: 100
+  ItemType: 51
+  ItemPrimaryType: 4
+  Recipes: []
+  ItemSecondaryType: 0
+  Tier: 0
+  EquipMaxStackSize: 1
+  EquipType: 3
+  NeutralizeDebuffs: 
+  NeutralizeDebuffsData: []
+  NeutralizeAffixes: 
+  Buffs: 
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  Resistance:
+  - Resistances: []
+  BlankParametres:
+  - MinPropertyAmount: 1
+    MaxPropertyAmount: 2
+    MinCraftValue: 5
+    MaxCraftValue: 15
+  - MinPropertyAmount: 1
+    MaxPropertyAmount: 3
+    MinCraftValue: 10
+    MaxCraftValue: 20
+  - MinPropertyAmount: 2
+    MaxPropertyAmount: 3
+    MinCraftValue: 15
+    MaxCraftValue: 25
+  - MinPropertyAmount: 3
+    MaxPropertyAmount: 4
+    MinCraftValue: 20
+    MaxCraftValue: 35
+  BaseStats:
+  - BaseStats:
+    - StatType: 17
+      MinValueStat: 1
+      MaxValueStat: 2
+    - StatType: 24
+      MinValueStat: 3
+      MaxValueStat: 5
+  - BaseStats:
+    - StatType: 17
+      MinValueStat: 2
+      MaxValueStat: 5
+    - StatType: 24
+      MinValueStat: 5
+      MaxValueStat: 10
+  ReforgeSprite: {fileID: 21300000, guid: e77ae4b0807c2e441bd8a18415efc46a, type: 3}

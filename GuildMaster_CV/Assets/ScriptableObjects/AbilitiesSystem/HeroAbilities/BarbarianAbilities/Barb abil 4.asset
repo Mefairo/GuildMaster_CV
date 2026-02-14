@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a072ea759f48143aff23da4b602936, type: 3}
+  m_Name: Barb abil 4
+  m_EditorClassIdentifier: 
+  ID: 111
+  Icon: {fileID: 21300000, guid: b0e9f1916feac7f4e9838306897b1b2f, type: 3}
+  Name: Barb abil 4
+  Description: barb deal damage 4
+  PowerValue: 10
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 30
+  MasterAura: 0
+  AmountSummon: 1
+  Stats:
+  - Strength: 10
+    Dexterity: 10
+    Intelligence: 10
+    Endurance: 20
+    Flexibility: 20
+    Sanity: 20
+    Health: 100
+  ResistancesForAttack:
+  - TypeDamage: 5
+    ValueResistance: 0
+  - TypeDamage: 7
+    ValueResistance: 0
+  ResistancesForDefence:
+  - TypeDamage: 5
+    ValueResistance: 22
+  - TypeDamage: 7
+    ValueResistance: 14
+  DebuffsForAttack: []
+  DebuffsForDefence:
+  - _debuffData: {fileID: 11400000, guid: 98efac6b8f32c5245bb100c747e85a4c, type: 2}
+  GeneralType: 2
+  TypeAbility: 3
+  BuffList: 
+  NeutralizeAffixList: 

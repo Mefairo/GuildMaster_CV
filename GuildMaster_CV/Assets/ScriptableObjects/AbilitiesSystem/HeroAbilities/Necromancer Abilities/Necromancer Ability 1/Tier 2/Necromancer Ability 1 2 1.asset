@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60299ae1238f98d4e9b90a1a14868d1c, type: 3}
+  m_Name: Necromancer Ability 1 2 1
+  m_EditorClassIdentifier: 
+  ID: 61121
+  Icon: {fileID: 21300000, guid: 37ce5865f2aa2dd459e5104888e6030c, type: 3}
+  Name: Dark Bolt
+  Description: "Attack that deals Dark damage. If there is a Dark Knight in the group,
+    the ability\u2019s power increases by 25%."
+  AbilityTreeDescription: "Attack that deals Dark damage. If there is a Dark Knight
+    in the group, the ability\u2019s power increases by 25%."
+  Tier: 2
+  PowerValue: 0
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 20
+  "\u0421oefBuff": 20
+  "\u0421oefAoe": 20
+  UniqBuff: 0
+  PostBuff: 0
+  MasterAura: 0
+  AmountSummon: 1
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  ResistancesForAttack:
+  - TypeDamage: 6
+    ValueResistance: 0
+  ResistancesForDefence: []
+  DebuffsForAttack: []
+  DebuffsForDefence: []
+  ResistancesForDecrease: []
+  GeneralType: 1
+  TypeAbility: 1
+  BuffList: 
+  NeutralizeBuffList: 
+  NeutralizeAffixList: 
+  MainTreeAbility: {fileID: 11400000, guid: b6a622fdd7d963a4db6f165ffe57177c, type: 2}
+  RequiredStats:
+    StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  StudyAbilities: []
+  HeroData: {fileID: 11400000, guid: 2e914f82e47f77d4b8217af94d5e8d2b, type: 2}
+  PowerCoef: 25

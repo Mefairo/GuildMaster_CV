@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d79f87cdcac3334fb8a59bd558a1ea4, type: 3}
+  m_Name: Quest Data Level 4
+  m_EditorClassIdentifier: 
+  Level: 4
+  MinPower: 714
+  MaxPower: 1906
+  MinDefence: 831
+  MaxDefence: 2067
+  MinRes: 20
+  MaxRes: 30
+  MinAmountEnemy: 3
+  MaxAmountEnemy: 3
+  MinAmountAffixes: 2
+  MaxAmountAffixes: 3
+  MinAmountDays: 2
+  MaxAmountDays: 4
+  MinRewardGuildReputation: 5040
+  MaxRewardGuildReputation: 7560
+  MinRewardGold: 20190
+  MaxRewardGold: 28042
+  MinRewardHeroExp: 13824
+  MaxRewardHeroExp: 18432
+  RewardItems: []

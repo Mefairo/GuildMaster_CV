@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d46fbec686d36014eac5800e1ef26f69, type: 3}
+  m_Name: BlacksmithWealth
+  m_EditorClassIdentifier: 
+  ID: -1
+  Name: Blacksmithing Boom
+  Description: 'Blacksmithing Boom.
+
+    Blacksmiths have mastered an ancient steel-forging
+    technique. Now anyone can order a sword that used to cost a fortune.
+
+
+    Blacksmith
+    goods are 30% cheaper.
+
+    Selling prices to Blacksmiths are increased by 20%.
+
+    Blacksmith
+    stock is increased by 35%.'
+  Icon: {fileID: 21300000, guid: d1bfd150ad9b1d649b122e439d930f1c, type: 3}
+  Resistances: []
+  ActiveDebuffAffix: 0
+  RequireAoeDamage: 0
+  ConsiderCountAffix: 1
+  RequiredForAllHeroesNeutralize: 1
+  WorldEventType: 14
+  AmountDays: 7
+  LeftDays: 0
+  Value_1: 0
+  IsAffix: 0
+  CoefBuyCost: 30
+  CoefSellCost: 20
+  CoefAmountItems: 35

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ccf474d919fb1e44aee21528a7af58a, type: 3}
+  m_Name: Snake Stew
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Snake Stew
+  Description: 'Spicy, with meat of wood serpents.
+
+    Restores 1.5 Satiety'
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 7ff221b84359504459e063c972abd2b9, type: 3}
+  IconBackground: {fileID: 0}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 500
+  GoldValue: 245
+  ItemType: 6
+  ItemPrimaryType: 3
+  Recipes:
+  - _requiredItems:
+    - {fileID: 11400000, guid: a3b27f34e4c54164dbf013c8fd90aa8e, type: 2}
+    - {fileID: 11400000, guid: e78b35d390c3d164f861349de63210b3, type: 2}
+    - {fileID: 11400000, guid: 36b817f98c0b6ff4e94b4bbab6bb7bb4, type: 2}
+    - {fileID: 11400000, guid: 7adc474c5eb8802489f7ce9e654f08ad, type: 2}
+    _amountResources: 02000000020000000100000001000000
+    _craftPrefab: []
+    _craftedItem: {fileID: 0}
+  ItemSecondaryType: 1
+  Tier: 0
+  EquipMaxStackSize: 3
+  EquipType: 11
+  NeutralizeDebuffs: 
+  NeutralizeDebuffsData: []
+  NeutralizeAffixes: 
+  Buffs: 
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 4
+    AdaptabilityValue: 4
+    SuppressionValue: 4
+  Resistance:
+  - Resistances: []
+  ItemValue: 1.5
+  TypeConsumItem: 1

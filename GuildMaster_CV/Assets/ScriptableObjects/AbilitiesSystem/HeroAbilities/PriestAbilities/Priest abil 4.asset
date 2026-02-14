@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a072ea759f48143aff23da4b602936, type: 3}
+  m_Name: Priest abil 4
+  m_EditorClassIdentifier: 
+  ID: 222
+  Icon: {fileID: 21300000, guid: 7d58ceb9a7f3fa047b2c49f3b79b9a64, type: 3}
+  Name: priest abli 4
+  Description: priest damage 4
+  PowerValue: 0
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 0
+  MasterAura: 0
+  AmountSummon: 1
+  Stats: []
+  ResistancesForAttack: []
+  ResistancesForDefence:
+  - TypeDamage: 6
+    ValueResistance: 10
+  - TypeDamage: 7
+    ValueResistance: 15
+  DebuffsForAttack: []
+  DebuffsForDefence:
+  - _debuffData: {fileID: 11400000, guid: e5c3bcf33daf0dd448bdd4d3fe45ea58, type: 2}
+  GeneralType: 2
+  TypeAbility: 5
+  BuffList: 
+  NeutralizeAffixList: 
+  MainTreeAbility: {fileID: 11400000, guid: 9f5bc713fdf085e4e995d1bdfdfba65b, type: 2}
+  RequiredStats:
+    StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 4
+    HasteMulti: 4
+    AccuracyMulti: 4
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  StudyAbilities:
+  - _abilityData: {fileID: 11400000, guid: 731e8f8067a82d84588a9a62fa590ad8, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _buffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  - _abilityData: {fileID: 11400000, guid: d4235ba402d3f0e4d8f37805185f4936, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _buffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  - _abilityData: {fileID: 11400000, guid: e047959b8de66c34a9d96b0690f0cc15, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _buffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0

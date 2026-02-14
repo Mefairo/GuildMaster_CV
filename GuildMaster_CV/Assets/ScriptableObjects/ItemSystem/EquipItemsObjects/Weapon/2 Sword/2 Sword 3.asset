@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7316937fcbdc89649bd3fc825105b7df, type: 3}
+  m_Name: 2 Sword 3
+  m_EditorClassIdentifier: 
+  ID: -1
+  DisplayName: Sword 3
+  Description: Equipment Item
+  StatsDescription: 
+  Icon: {fileID: 21300000, guid: 5e5d1d5f7bcee2349aedbcb0e8b8f5d8, type: 3}
+  IconBackground: {fileID: 21300000, guid: 3bd3dd19c25c12544be4a6f5964f0b3c, type: 3}
+  ItemPrefab: {fileID: 0}
+  MaxStackSize: 1
+  GoldValue: 11220
+  ItemType: 25
+  ItemPrimaryType: 3
+  Recipes:
+  - _requiredItems:
+    - {fileID: 11400000, guid: f74f4f6d4d258c4419be512a0eb15a36, type: 2}
+    - {fileID: 11400000, guid: 72999d75c1341a446b7c471366e70c25, type: 2}
+    - {fileID: 11400000, guid: a6e3173b241a42e4ab402a5eee36f094, type: 2}
+    - {fileID: 11400000, guid: 959c835112a5488418ed4a7a2473fabd, type: 2}
+    _amountResources: 080000000c0000001200000014000000
+    _craftPrefab: []
+    _craftedItem: {fileID: 0}
+  ItemSecondaryType: 0
+  Tier: 0
+  EquipMaxStackSize: 1
+  EquipType: 13
+  NeutralizeDebuffs: 
+  NeutralizeDebuffsData: []
+  NeutralizeAffixes: 
+  Buffs: 
+  Stats:
+  - StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 3
+    DexterityValue: 3
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  Resistance:
+  - Resistances: []

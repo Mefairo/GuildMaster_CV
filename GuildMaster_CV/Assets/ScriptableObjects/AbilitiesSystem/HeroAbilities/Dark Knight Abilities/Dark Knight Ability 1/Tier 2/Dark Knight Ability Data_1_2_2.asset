@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086f7cbc42690c6498d12337f7e106d4, type: 3}
+  m_Name: Dark Knight Ability Data_1_2_2
+  m_EditorClassIdentifier: 
+  ID: 21122
+  Icon: {fileID: 21300000, guid: 8458e1ae4c06d434787134353c279543, type: 3}
+  Name: Weapon Strike
+  Description: An attack dealing Physical damage. Its power increases by 10% of the
+    Speed Multiplier.
+  AbilityTreeDescription: An attack dealing Physical damage. Its power increases
+    by 10% of the Speed Multiplier.
+  Tier: 2
+  PowerValue: 0
+  DefenceValue: 0
+  HealValue: 0
+  ManaCost: 20
+  "\u0421oefBuff": 20
+  "\u0421oefAoe": 20
+  UniqBuff: 0
+  PostBuff: 0
+  MasterAura: 0
+  AmountSummon: 1
+  Stats: []
+  ResistancesForAttack:
+  - TypeDamage: 1
+    ValueResistance: 0
+  ResistancesForDefence: []
+  DebuffsForAttack: []
+  DebuffsForDefence: []
+  ResistancesForDecrease: []
+  GeneralType: 1
+  TypeAbility: 1
+  BuffList: 
+  NeutralizeBuffList: 
+  NeutralizeAffixList: 
+  MainTreeAbility: {fileID: 11400000, guid: df5eb8541f0a5d746a2fefba1f8a37f3, type: 2}
+  RequiredStats:
+    StrengthMulti: 0
+    DexterityMulti: 0
+    IntelligenceMulti: 0
+    EnduranceMulti: 0
+    FlexibilityMulti: 0
+    SanityMulti: 0
+    CritMulti: 0
+    HasteMulti: 0
+    AccuracyMulti: 0
+    DurabilityMulti: 0
+    AdaptabilityMulti: 0
+    SuppressionMulti: 0
+    Health: 0
+    StrengthValue: 0
+    DexterityValue: 0
+    IntelligenceValue: 0
+    EnduranceValue: 0
+    FlexibilityValue: 0
+    SanityValue: 0
+    CritValue: 0
+    HasteValue: 0
+    AccuracyValue: 0
+    DurabilityValue: 0
+    AdaptabilityValue: 0
+    SuppressionValue: 0
+  StudyAbilities:
+  - _abilityData: {fileID: 11400000, guid: 91c1ecc601b506741ade73f725110594, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  - _abilityData: {fileID: 11400000, guid: bc79e4e27e9c8634489e557e73d7fd9d, type: 2}
+    _powerValue: 0
+    _defenceValue: 0
+    _healValue: 0
+    _manaCost: 0
+    _coefBuff: 0
+    _coefAoe: 0
+    _stats: []
+    _resistancesForAttack: []
+    _resistancesForDefence: []
+    _debuffsForAttack: []
+    _debuffsForDefence: []
+    _resistancesForDecrease: []
+    _buffs: 
+    _neutralizeBuffs: 
+    _abilityPercent: 0
+    _coef2: 0
+    _coef3: 0
+  HasteCoef: 10
